@@ -2,7 +2,7 @@
 title: "this-a-nice"
 date_saved: 2022-03-06
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/03/06/this-a-nice.html"
+link: "http://sepiabrown.micro.blog/2022/03/06/this-a-nice.html"
 ---
 This a nice little meditation on service roles (i.e. consulting)
 

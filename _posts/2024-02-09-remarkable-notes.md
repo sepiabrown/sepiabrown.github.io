@@ -2,12 +2,12 @@
 title: Notes on my Remarkable Tablet
 subtitle: Some notes on my note taking device
 layout: blog
-og: https://tomcritchlow.com/images/remarkable-og.png
+og: https://sepiabrown.github.io/images/remarkable-og.png
 ---
 
 I love my [Remarkable 2](https://remarkable.com/store/remarkable-2). I've been using it pretty heavily for almost a year now. It's my every day companion device. Here's some notes and ideas.
 
-*Note: this is all my personal opinion, I have no ties to Remarkable. Although they are [one of my dream clients for 2024](https://tomcritchlow.com/2024/01/18/dream-clients/) so there's that.*
+*Note: this is all my personal opinion, I have no ties to Remarkable. Although they are [one of my dream clients for 2024](https://sepiabrown.github.io/2024/01/18/dream-clients/) so there's that.*
 
 ✍️✍️✍️
 
@@ -19,7 +19,7 @@ Core, daily usage:
 
 * Taking notes, capturing ideas, jotting down the day's todo list. All of the kinds of things that a notebook does for you.
 * Doodling, diagramming and constructing more involved elaborate ideas. The kind of thing that is hard to do on a notebook because it involves zooming in and out, erasing sections, using straight lines etc.
-* [Reading PDFs](https://twitter.com/tomcritchlow/status/1754690464156946652) (and annotating with notes) - what a perfect form factor for reading PDFs! I've read so many more academic papers over the last year directly because of my Remarkable.
+* [Reading PDFs](https://twitter.com/sepiabrown/status/1754690464156946652) (and annotating with notes) - what a perfect form factor for reading PDFs! I've read so many more academic papers over the last year directly because of my Remarkable.
 * I've been working with a client to make a Monthly Business Review packet - it's 50+ pages of charts and data, Amazon-style, and on a whim I loaded it onto my Remarkable as a PDF and it's a great way to read all the data (and add little annotations!). Now I load each month on there and sit down and read it front to back.
 
 Fun, quirky uses:

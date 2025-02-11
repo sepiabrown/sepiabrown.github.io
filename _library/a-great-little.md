@@ -2,7 +2,7 @@
 title: "a-great-little"
 date_saved: 2022-02-08
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/02/08/a-great-little.html"
+link: "http://sepiabrown.micro.blog/2022/02/08/a-great-little.html"
 ---
 A great little meditation on Alan Jacob's line of inquiry on "Invitation & Repair"
 

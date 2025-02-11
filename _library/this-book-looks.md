@@ -2,7 +2,7 @@
 title: "this-book-looks"
 date_saved: 2021-12-20
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2021/12/20/this-book-looks.html"
+link: "http://sepiabrown.micro.blog/2021/12/20/this-book-looks.html"
 ---
 This book looks wonderful:
 

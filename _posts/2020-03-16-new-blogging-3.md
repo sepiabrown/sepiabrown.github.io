@@ -33,11 +33,11 @@ Try it out! The search works across the blog, my blogchains and my wiki. Be warn
 
 Inspired by [Dave Winer](http://scripting.com/) and from using [Roam](https://roamresearch.com/) too much I was looking for some way to create an outline-like experience for my site. Especially as I sprawl across blogging, wikis, blogchains, book writing etc.
 
-![](/images/tomcritchlow-expand.png)
+![](/images/sepiabrown-expand.png)
 
 This index expand/collapse UX is just out of the box HTML functionality with the [details tag](https://www.w3schools.com/tags/tag_details.asp) so this is very easy to copy!
 
-[Try it out on my homepage here](https://tomcritchlow.com/).
+[Try it out on my homepage here](https://sepiabrown.github.io/).
 
 ## A new simpler approach to margin notes
 
@@ -57,7 +57,7 @@ So I switched to using the standard markdown footnotes code like this:
 
     I like this idea - that the most useful thing you need client input and co-creation on is the “base reality” - the “Who, What, Where”. For consultants coming in from the outside attempting to “solve problems” for clients the biggest flaw in generic strategies is not properly accounting for who is at the company, what we’re actually trying to solve and where this strategy will play out[^1].
     
-    [^1]: Recall from [chapter 2](https://tomcritchlow.com/2019/11/19/optimism-operating-system/) - there is no 'just' in consulting - clients are ecosystems in balance...
+    [^1]: Recall from [chapter 2](https://sepiabrown.github.io/2019/11/19/optimism-operating-system/) - there is no 'just' in consulting - clients are ecosystems in balance...
 
 And then using a little javascript to turn footnotes into margin notes client side:
 

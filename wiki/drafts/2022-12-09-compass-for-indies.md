@@ -10,7 +10,7 @@ https://www.patreon.com/posts/cultivating-and-75327738
 
 https://boundless.substack.com/p/serendipity-life-force-writing-206
 
-https://twitter.com/tomcritchlow/status/1599101039747035137
+https://twitter.com/sepiabrown/status/1599101039747035137
 
 https://lethain.com/time-and-energy/
 

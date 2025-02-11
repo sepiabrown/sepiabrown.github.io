@@ -2,7 +2,7 @@
 title: "so-theres-a"
 date_saved: 2022-03-16
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/03/16/so-theres-a.html"
+link: "http://sepiabrown.micro.blog/2022/03/16/so-theres-a.html"
 ---
 So there's a [digital naturalism conference](Digital Naturalism Conference). Looks pretty rad! They made a booklet from their last conference in 2019 which you can [see online here](https://archive.org/details/dinacon-2019-single-page-lulu-a-5-printed-2/). Looks fascinating!
 

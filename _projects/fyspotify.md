@@ -10,4 +10,4 @@ Fuck Yeah Spotify (fyspotify.appspot.com) was a tool I built to find the top twe
 Technology: Google Appengine, Python, Javascript, HTML, CSS, Topsy API, Last.fm API
 
 Ulimately the project never really worked as intended for reasons that 
-http://tomcritchlow.com/2014/12/03/random-acts-of-algorithms/
+http://sepiabrown.github.io/2014/12/03/random-acts-of-algorithms/

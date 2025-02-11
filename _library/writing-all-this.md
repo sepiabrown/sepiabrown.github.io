@@ -2,7 +2,7 @@
 title: "writing-all-this"
 date_saved: 2021-12-02
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2021/12/02/writing-all-this.html"
+link: "http://sepiabrown.micro.blog/2021/12/02/writing-all-this.html"
 ---
 <blockquote class="quoteback" darkmode="" data-title="100%20years%20of%20whatever%20this%20will%20be" data-author="" cite="https://apenwarr.ca/log/20211201">
 <p>Writing all this down, you know what? I'm kind of mad about it too. Not so mad that I'll go chasing obviously-ill-fated scurrilous rainbow financial instruments. But there's something here that needs solving. If I'm not solving it, or part of it, or at least trying, then I'm... wasting my time. Who cares about money? This is a systemic train wreck, well underway.</p>

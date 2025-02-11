@@ -24,5 +24,5 @@ Peretti uses this diagram to showcase how Tasty makes money (just one of their m
 
 As these brands look to expand their revenue model across multiple products, channels and formats the idea of a unified, distinct, appealing and loved brand is more and more important. I'd expect that Buzzfeed will double down on this by creating a bunch more brands in highly lucrative spaces (why focus on cooking when there's more money in fashion for example?).
 
-A good time to revisit my post [branding in the age of content](http://tomcritchlow.com/2017/06/27/branding-in-the-age-of-content/).
+A good time to revisit my post [branding in the age of content](http://sepiabrown.github.io/2017/06/27/branding-in-the-age-of-content/).
 

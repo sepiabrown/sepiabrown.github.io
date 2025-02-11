@@ -28,7 +28,7 @@ So, here's a summary of the pieces I've written so far and the overall book outl
 
 ### Chapter 1 - Intro and overview
 
-This will be... some kind of intro I suppose! Most of these ideas are explored in my post [The Strategic Independent](https://tomcritchlow.com/2019/04/04/the-strategic-independent/) (4,700 words) including:
+This will be... some kind of intro I suppose! Most of these ideas are explored in my post [The Strategic Independent](https://sepiabrown.github.io/2019/04/04/the-strategic-independent/) (4,700 words) including:
 
 - The foundational frame of "work in context"
 - The interplay between strategy work and execution that allows you to retain clients for 12-18+ months at a time
@@ -82,7 +82,7 @@ This chapter is essential to ensuring that the book stays grounded and doesn't c
 
 [I, consultant](https://tomcritchlow.com/2019/02/27/i-consultant/) (2,700 words) - this is the only full post I've written for this section that tries to explore the wreck of how it feels for me personally to use the word "consultant". I think there's some important ideas in here but this post didn't come out quite how I wanted it to - I think it needs a rewrite. Maybe I'm too close to the problem to properly write this one :)
 
-Maybe one way to do this is fold in my post [the power of labels](https://tomcritchlow.com/2018/09/17/naming/) (1,000 words) that uses references from folks like Robin Sloan (media inventor).
+Maybe one way to do this is fold in my post [the power of labels](https://sepiabrown.github.io/2018/09/17/naming/) (1,000 words) that uses references from folks like Robin Sloan (media inventor).
 
 Another post that I have in draft right now is all about managing your time (but really, managing your energy) as an indie. Working with a coach last year I came up with an energy matrix spreadsheet that I found super useful as a way to think through balancing work and life during a particularly busy period and I want to tell that story and explore idea of time tracking, calendaring and scheduling for indies. This post is in draft right now and called "the jigsaw of independence" but that might change...
 

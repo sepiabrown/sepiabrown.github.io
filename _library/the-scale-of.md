@@ -2,7 +2,7 @@
 title: "the-scale-of"
 date_saved: 2021-12-07
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2021/12/07/the-scale-of.html"
+link: "http://sepiabrown.micro.blog/2021/12/07/the-scale-of.html"
 ---
 The Scale of the Web, the Authority of Print. What a lovely idea
 

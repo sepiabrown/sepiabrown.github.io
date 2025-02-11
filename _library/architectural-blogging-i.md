@@ -2,7 +2,7 @@
 title: "architectural-blogging-i"
 date_saved: 2022-03-08
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/03/08/architectural-blogging-i.html"
+link: "http://sepiabrown.micro.blog/2022/03/08/architectural-blogging-i.html"
 ---
 Architectural blogging
 

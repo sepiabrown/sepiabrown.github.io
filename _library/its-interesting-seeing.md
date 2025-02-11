@@ -2,7 +2,7 @@
 title: "its-interesting-seeing"
 date_saved: 2021-12-12
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2021/12/12/its-interesting-seeing.html"
+link: "http://sepiabrown.micro.blog/2021/12/12/its-interesting-seeing.html"
 ---
 It's interesting seeing Dave Winer playing with search as a new primitive on his "blog" (I put it in quotes because his blog is a mega-archive and leviathan body of work)...
 

@@ -2,7 +2,7 @@
 title: "i-didnt-realize"
 date_saved: 2022-01-19
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/01/19/i-didnt-realize.html"
+link: "http://sepiabrown.micro.blog/2022/01/19/i-didnt-realize.html"
 ---
 I didn't realize you could turn a static site into a PWA - thought you needed a server for the serviceworker... Bookmarking this for later
 

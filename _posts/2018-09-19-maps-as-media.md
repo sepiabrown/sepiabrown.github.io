@@ -21,7 +21,7 @@ I'm going to be following along - doing the readings and posting some thoughts t
 
 I'll be collecting all of the posts under the "maps as media" tag here:
 
-[https://tomcritchlow.com/maps-as-media/](https://tomcritchlow.com/maps-as-media/)
+[https://sepiabrown.github.io/maps-as-media/](https://sepiabrown.github.io/maps-as-media/)
 
 Some themes I'm interested in exploring during the course:
 

@@ -6,7 +6,7 @@ blogchain: annotations
 topics: annotation
 ---
 
-In my post [experiments in networked writing](https://tomcritchlow.com/2018/01/05/networked-writing/) I explored some ideas about how to put the network back in networked writing. In particular, I have a theory that the comments are actually the interesting unit of the blog, not the post.
+In my post [experiments in networked writing](https://sepiabrown.github.io/2018/01/05/networked-writing/) I explored some ideas about how to put the network back in networked writing. In particular, I have a theory that the comments are actually the interesting unit of the blog, not the post.
 
 > The idea that blogs exist within the network is crucial to understanding the medium (the medium is the message - could one say the blogosphere is the blog?).
 
@@ -98,7 +98,7 @@ What am I missing about annotations for the web? I'm sure there's a rich history
 
 *Update 2: The current hypothesis installed on this page is the gist below. Strongly considering putting it across all my blog posts. Provides the hypothesis functionality with a cleaner UX and hidden by default:*
 
-<script src="https://gist.github.com/tomcritchlow/94d11ecdf9832bb4f8b9697d5ecb8d64.js"></script>
+<script src="https://gist.github.com/sepiabrown/94d11ecdf9832bb4f8b9697d5ecb8d64.js"></script>
 
 --
 

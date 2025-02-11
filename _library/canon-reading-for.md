@@ -2,7 +2,7 @@
 title: "canon-reading-for"
 date_saved: 2022-02-09
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/02/09/canon-reading-for.html"
+link: "http://sepiabrown.micro.blog/2022/02/09/canon-reading-for.html"
 ---
 Canon reading for "artist in consultance"...
 

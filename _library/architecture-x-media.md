@@ -6,7 +6,7 @@ date_saved: 2025-01-07
 
 Architecture and media feel like unusual bedfellows but bring together some wonderful connections in my mind:
 
-[https://twitter.com/tomcritchlow/status/1106264379631259649](https://twitter.com/tomcritchlow/status/1106264379631259649)
+[https://twitter.com/sepiabrown/status/1106264379631259649](https://twitter.com/sepiabrown/status/1106264379631259649)
 
 AMO - think tank from OMA ends up doing work that is not buildings. What is that work? Strategic design?
 

@@ -2,7 +2,7 @@
 title: "not-hard-to"
 date_saved: 2021-12-10
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2021/12/10/not-hard-to.html"
+link: "http://sepiabrown.micro.blog/2021/12/10/not-hard-to.html"
 ---
 Not hard to see a link between these two pieces...
 

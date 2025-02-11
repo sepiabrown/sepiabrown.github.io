@@ -2,7 +2,7 @@
 title: "a-url-is"
 date_saved: 2022-06-23
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/06/23/a-url-is.html"
+link: "http://sepiabrown.micro.blog/2022/06/23/a-url-is.html"
 ---
 A URL is a radical act... I love these presentation notes on museums, the cultural sector and the web. Lots to mull over:
 

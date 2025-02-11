@@ -16,7 +16,7 @@ Interactions online have been mostly 1:1 between digital identity and real ident
 
 But as I look at my daughter and son (3.5 and 0) it occurs to me that there's something changing.
 
-Where I have invested time in my identity (tomcritchlow.com / @tomcritchlow) the next generation will not understand what this means. They won't even understand how or why it could have happened.
+Where I have invested time in my identity (sepiabrown.github.io / @sepiabrown) the next generation will not understand what this means. They won't even understand how or why it could have happened.
 
 Machine Learning and AI will take our jobs, yes, but it'll undermine our sense of identity too. Every interaction will come with a vague sense of unease as it's faked (russian bots), augmented (gmail smart replies) and substituted (chatbots) by machines and state actors. Individual identites will become hard to prove and hard to defend, hard to stomach in the face of organized identity machines.
 

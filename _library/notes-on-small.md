@@ -2,7 +2,7 @@
 title: "notes-on-small"
 date_saved: 2021-12-02
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2021/12/02/notes-on-small.html"
+link: "http://sepiabrown.micro.blog/2021/12/02/notes-on-small.html"
 ---
 Lots of energy right now around grants.
 

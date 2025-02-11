@@ -20,7 +20,7 @@ I have a big white wall to the left of where I work. A small projector could put
 
 Seeing the work all in one place
 
-https://tomcritchlow.com/2019/06/28/one-page-strategy/
+https://sepiabrown.github.io/2019/06/28/one-page-strategy/
 
 Considerations
 

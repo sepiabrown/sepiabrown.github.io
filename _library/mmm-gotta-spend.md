@@ -2,7 +2,7 @@
 title: "mmm-gotta-spend"
 date_saved: 2022-05-11
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/05/11/mmm-gotta-spend.html"
+link: "http://sepiabrown.micro.blog/2022/05/11/mmm-gotta-spend.html"
 ---
 Mmm. Gotta spend some time diving into this idea:
 

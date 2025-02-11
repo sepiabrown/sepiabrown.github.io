@@ -37,7 +37,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7036432931787046912/
 CEOs as "a container of complexity"
 https://journals.sagepub.com/doi/10.1177/0021886314522859
 
-https://twitter.com/tomcritchlow/status/1669752069329125376
+https://twitter.com/sepiabrown/status/1669752069329125376
 
 Capacity building vs problem solving
 

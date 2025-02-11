@@ -1,13 +1,13 @@
 ---
 ---
 ==================================================================
-https://keybase.io/tomcritchlow
+https://keybase.io/sepiabrown
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of https://tomcritchlow.com
-  * I am tomcritchlow (https://keybase.io/tomcritchlow) on keybase.
+  * I am an admin of https://sepiabrown.github.io
+  * I am sepiabrown (https://keybase.io/sepiabrown) on keybase.
   * I have a public key ASA_hTWBcX345PM2UbT-D00XmCRKKx5vfneNlFksIgCHYwo
 
 To do so, I am signing this object:
@@ -19,7 +19,7 @@ To do so, I am signing this object:
       "host": "keybase.io",
       "kid": "01203f853581717df8e4f33651b4fe0f4d1798244a2b1e6f7e778d94592c220087630a",
       "uid": "ee12f4dc70d2ee889a3354695df76d19",
-      "username": "tomcritchlow"
+      "username": "sepiabrown"
     },
     "merkle_root": {
       "ctime": 1586286836,
@@ -29,7 +29,7 @@ To do so, I am signing this object:
     },
     "service": {
       "entropy": "Ill3YRSIEKr6vjr983ZWjExY",
-      "hostname": "tomcritchlow.com",
+      "hostname": "sepiabrown.github.io",
       "protocol": "https:"
     },
     "type": "web_service_binding",
@@ -53,6 +53,6 @@ hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgP4U1gXF9+OTzNlG0/g9NF5gkSiseb353
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/tomcritchlow
+View my publicly-auditable identity here: https://keybase.io/sepiabrown
 
 ==================================================================

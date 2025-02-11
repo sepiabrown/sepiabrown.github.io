@@ -181,7 +181,7 @@ Users turn themselves into junkusers. Grown up drinking from the poisoned well t
 
 http://mylesudland.tumblr.com/post/182195239090/aaron-sorkin-is-bored
 
-https://tomcritchlow.com/2019/06/06/blood-in-the-feed/
+https://sepiabrown.github.io/2019/06/06/blood-in-the-feed/
 
 https://disquiet.com/2019/06/24/cyberdeck-2019/
 

@@ -2,7 +2,7 @@
 title: "heart-emoji"
 date_saved: 2022-04-21
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/04/21/heart-emoji.html"
+link: "http://sepiabrown.micro.blog/2022/04/21/heart-emoji.html"
 ---
 :heart emoji:
 

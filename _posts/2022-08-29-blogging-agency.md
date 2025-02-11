@@ -4,7 +4,7 @@ subtitle: Blogging as economic and social opportunity
 layout: blog
 ---
 
-Lately I've been framing all of my work through the lens of **increasing agency**. (See: [notes on agency at work](https://tomcritchlow.com/2022/07/05/agency/)).
+Lately I've been framing all of my work through the lens of **increasing agency**. (See: [notes on agency at work](https://sepiabrown.github.io/2022/07/05/agency/)).
 
 So it's no surprise that this piece from Nadia struck a chord:
 
@@ -50,7 +50,7 @@ Stripe's mission is to "increase the GDP of the internet". Their recent [investo
 
 Craig is a great example of someone who has leveraged online writing into economic and social opportunity. From funding and distributing his books, to paid writing gigs to building a [special projects](https://craigmod.com/membership/) revenue stream to enable long walks.
 
-Stripe is interested in the GDP of the internet and Stripe understands that writing is an economic engine. Maybe it's not so crazy to ask what the [GDP of blogging is](https://twitter.com/tomcritchlow/status/1512458520188313610)?
+Stripe is interested in the GDP of the internet and Stripe understands that writing is an economic engine. Maybe it's not so crazy to ask what the [GDP of blogging is](https://twitter.com/sepiabrown/status/1512458520188313610)?
 
 Perhaps un-ironically you could invest in growing the small business economy by investing in blogging.
 

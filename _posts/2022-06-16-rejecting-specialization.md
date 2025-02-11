@@ -3,7 +3,7 @@ layout: tsi-chapter
 title: Rejecting Specialization
 subtitle: Using vibes and voice to attract the right clients
 tags: strategy
-og: https://tomcritchlow.com/images/specialization-og.png
+og: https://sepiabrown.github.io/images/specialization-og.png
 ---
 
 There are two types of indie consultants. There are those that have created a very clear specialization, you can look at their website and see something like *"I help B2B SaaS companies with their content strategy"* or *"I help brands build audience via email"*. The indie consultants that do this well seem very busy, well known and respected in their industry. It's fairly easy to see from the outside what their work looks.
@@ -173,7 +173,7 @@ But working in public is more than just publishing content - it’s about creati
 
 The key of course is to make content that’s memorable and distinctive. In short: content that has a point of view. Whether it’s a clearly articulated point of view with a rational argument or just an aesthetic and vibe.
 
-Not sure how to start? [Small-b blogging](https://tomcritchlow.com/2018/02/23/small-b-blogging/) and [blogpunk](https://tomcritchlow.com/2019/05/17/blogpunk/) make a powerful combination.
+Not sure how to start? [Small-b blogging](https://sepiabrown.github.io/2018/02/23/small-b-blogging/) and [blogpunk](https://sepiabrown.github.io/2019/05/17/blogpunk/) make a powerful combination.
 
 How do you tell if you’re doing it right? As you build your publishing practice the only measure is connections. How many conversations are you having because of the things you publish? Forget audience size, forget pageviews - focus on crafting your voice. **Focus on building a voice that makes people want to have a dialogue**.
 
@@ -282,7 +282,7 @@ Venkatesh goes on to outline a bit of a “how-to”:
 
 You can see how this recipe from Venkatesh is literally a playbook that you can follow - first through observing your own consulting work and the disillusionment that exists in the margins (from clients, agencies, fellow consultants etc) and then later from trying out some light rejections of the orthodoxy - both in private (with clients and potential clients) and in public (by blogging).
 
-This line of inquiry is a healthy one for any consultant to take anyway - it’s the role of the consultant to [play the fool](https://tomcritchlow.com/2020/08/18/the-fool/) and take contrary positions, ask stupid questions and check the first principles of everyone’s thinking.
+This line of inquiry is a healthy one for any consultant to take anyway - it’s the role of the consultant to [play the fool](https://sepiabrown.github.io/2020/08/18/the-fool/) and take contrary positions, ask stupid questions and check the first principles of everyone’s thinking.
 
 ## The Industry/Reality Gap
 

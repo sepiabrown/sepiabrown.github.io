@@ -30,10 +30,10 @@ groups:
     links:
       - name: Twitter
         feathericon: twitter
-        url: "https://twitter.com/tomcritchlow/"
+        url: "https://twitter.com/sepiabrown/"
       - name: LinkedIn
         feathericon: linkedin
-        url: "https://www.linkedin.com/in/tomcritchlow/"                     
+        url: "https://www.linkedin.com/in/sepiabrown/"                     
       - name: Are.na
         feathericon: bookmark
         url: "https://www.are.na/tom-critchlow/index"                             

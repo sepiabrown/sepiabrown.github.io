@@ -2,7 +2,7 @@
 title: "amen-to-this"
 date_saved: 2022-02-14
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/02/14/amen-to-this.html"
+link: "http://sepiabrown.micro.blog/2022/02/14/amen-to-this.html"
 ---
 Amen to this! Google Photos can identify all QR codes in my library via incredibly fancy machine learning. And yet I need to swipe up, then tap then tap again to click on a QR code. Why can't you just click a QR code in the camera roll?
 

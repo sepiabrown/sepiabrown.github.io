@@ -5,7 +5,7 @@ https://gregorlove.com/2018/06/announcing-indiebookclub/
 
 https://twitter.com/IGLOOGHOST/status/1225828604665311233?s=19
 
-https://twitter.com/tomcritchlow/status/1227308270907461633
+https://twitter.com/sepiabrown/status/1227308270907461633
 
 https://homehack.nl/activitypub-the-secret-weapon-of-the-fediverse/
 

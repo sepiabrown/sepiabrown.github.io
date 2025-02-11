@@ -9,7 +9,7 @@ blogchain: digital-gardens
 
 *This post is slightly long and slightly technical. The TL;DR is that I built a personal wiki out of files and folders and a few templates in Jekyll hosted on Github Pages. If you want to head straight to the wiki head here: [tomcritchlow.com/wiki/](https://tomcritchlow.com/wiki/) and if you want to skip straight to the technical how-to [jump here](#how-it-all-works)*
 
-For a while I've been searching for better ways of managing my information flows. Catch up by reading my last post [of digital streams, campfires and gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/).
+For a while I've been searching for better ways of managing my information flows. Catch up by reading my last post [of digital streams, campfires and gardens](https://sepiabrown.github.io/2018/10/10/of-gardens-and-wikis/).
 
 I left that post with the following concept:
 
@@ -87,9 +87,9 @@ Is published looking something like this:
 
 ![](/images/maps-wiki.png)
 
-Browse the HTML version here: [tomcritchlow.com/wiki](https://tomcritchlow.com/wiki/)
+Browse the HTML version here: [sepiabrown.github.io/wiki](https://sepiabrown.github.io/wiki/)
 
-For those comfortable reading Jekyll code then you can dive right in on Github here: [https://github.com/tomcritchlow/tomcritchlow.github.io](https://github.com/tomcritchlow/tomcritchlow.github.io)
+For those comfortable reading Jekyll code then you can dive right in on Github here: [https://github.com/sepiabrown/sepiabrown.github.io](https://github.com/sepiabrown/sepiabrown.github.io)
 
 The broad-strokes overview is as follows{% include tufte-sn.html id="wip" content="All of this is subject to change - consider this V0.1. This project is not finished, and by it's nature may in fact never be finished!" %}:
 
@@ -97,8 +97,8 @@ The broad-strokes overview is as follows{% include tufte-sn.html id="wip" conten
 - Markdown files are treated as pages
 - Image files are displayed as thumbnails with a link to the image, with the filename displayed to store any kind of title you want
 - PDf, CSV, txt files and anything else are displayed with a link to the file.
-- The "magic" comes from each wiki folder having an index.html file which handles all of the display by using a custom layout [wikiindex](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_layouts/wikiindex.html)
-- The root wiki page loops through all the files to create a master index automatically. [Code here](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/wiki/index.html).
+- The "magic" comes from each wiki folder having an index.html file which handles all of the display by using a custom layout [wikiindex](https://github.com/sepiabrown/sepiabrown.github.io/blob/master/_layouts/wikiindex.html)
+- The root wiki page loops through all the files to create a master index automatically. [Code here](https://github.com/sepiabrown/sepiabrown.github.io/blob/master/wiki/index.html).
 - Of course, the meat of the wiki is contained in note files which are just markdown files so easily portable. I intentionally designed the wiki to not rely on a ton of front-matter for portability and simplicity. To do this I added a default layout to wiki files in the [config file](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_config.yml).
 - It's not all about layout though - it's about presentation too. I added a single flag to the wikiindex frontmatter for "expand" to be true or false that displays the notes either fully expanded or as simple links. My [parenting wiki](https://tomcritchlow.com/wiki/parenting/) is an example of the notes expanded, while my [drafts folder](https://tomcritchlow.com/wiki/drafts/) is just a list of links because it's long.
 - Finally, where I have a long list of links I added the ability for individual notes to be "pinned" to the top of the page to ensure more important or frequently-used links are easy to find.
@@ -121,9 +121,9 @@ Credit for inspiration for this whole project comes from a variety of wikis and 
 
 [derek sivers' daily journal](https://sivers.org/dj) - a post from Derek Sivers on how to keep a text-file long-term store for your ideas and notes.
 
-And there's lots more too - [this twitter thread](https://twitter.com/tomcritchlow/status/1083823277712248832) has a whole bunch of interesting rabbit holes.
+And there's lots more too - [this twitter thread](https://twitter.com/sepiabrown/status/1083823277712248832) has a whole bunch of interesting rabbit holes.
 
-And, you can of course find this list of wikis [on my wiki](https://tomcritchlow.com/wiki/wikis) :)
+And, you can of course find this list of wikis [on my wiki](https://sepiabrown.github.io/wiki/wikis) :)
 
 *By the way - the illustration at the top was done by my wonderful partner [Erin Przekop](http://erinprz.com). If you like what you see check out [her picture book](http://erinprz.com/journey/) that's hitting the shelves in 2019!*
 

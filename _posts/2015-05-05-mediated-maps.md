@@ -14,7 +14,7 @@ Technically it’s just a feed of instagram photos taken within 400 yards of whe
 
 One of the most rewarding habits I try to cultivate is to look more closely at the world around me, but looking is an old habit. I wanted to build a digital tool that lets me look at the world around me in a new way, and give me a new lens.  
 
-See for yourself here: [tomcritchlow.com/instagram/](/instagram/)
+See for yourself here: [sepiabrown.github.io/instagram/](/instagram/)
 
 This is really just the tip of the iceberg in the broader conversation about how we become human beings on and with and using the internet. You realize that the act of following is also the act of excluding - how can we build new inclusions? Sometimes it’s important to change your filter to think in new ways about how “place”, “people” and “communities” work.
 
@@ -22,11 +22,11 @@ This is really just the tip of the iceberg in the broader conversation about how
 
 Behind the scenes, here's how I built it:
 
-Firstly - the data gets pulled into a spreadsheet using Google Scripts and refreshed every 5 minutes ([see the code in a gist here](https://gist.github.com/tomcritchlow/cd369e300bb0a6f4ae2b)).
+Firstly - the data gets pulled into a spreadsheet using Google Scripts and refreshed every 5 minutes ([see the code in a gist here](https://gist.github.com/sepiabrown/cd369e300bb0a6f4ae2b)).
 
 Then - I publish that spreadsheet ([see it here](https://docs.google.com/spreadsheets/d/1er8KB9DhFaAddMAGekPWlJddcAZQEFuDg58WOpUKI08/pubhtml?gid=0&single=true)).
 
-Lastly - I use tabletop.js to display the last 50 photos visually ([see the front end code here](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/instagram.html)).
+Lastly - I use tabletop.js to display the last 50 photos visually ([see the front end code here](https://github.com/sepiabrown/sepiabrown.github.io/blob/master/instagram.html)).
 
 ## Digital Research
 

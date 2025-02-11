@@ -2,15 +2,15 @@
 title: (Another) Quick Riff on Narrative Strategy
 subtitle: The logic of narratives, narratives as worlds
 layout: blog
-og: https://tomcritchlow.com/images/narrative-og.png
+og: https://sepiabrown.github.io/images/narrative-og.png
 topics: narrative-strategy
 ---
 
-I've been ruminating on the idea of **narrative strategy** for a while now. The last time I wrote about it was [in 2020](https://tomcritchlow.com/2020/02/20/narrative-strategy/).
+I've been ruminating on the idea of **narrative strategy** for a while now. The last time I wrote about it was [in 2020](https://sepiabrown.github.io/2020/02/20/narrative-strategy/).
 
 I'm convinced that narrative strategy is the frame through which I do all my consulting work. For my internal logic it is how I think about every client project - it's the overarching umbrella for my work. But externally? I'm not sure clients understand it that way. I think the phrase "narrative strategy" places too much emphasis on the *narrative* part and not enough on the *strategy* part.
 
-Anyway - I have been thinking about this for 4 years and doubt I'll resolve it by the end of this blog post. I am after all only posting this to [keep my streak going](https://tomcritchlow.com/2022/05/20/streaks/).
+Anyway - I have been thinking about this for 4 years and doubt I'll resolve it by the end of this blog post. I am after all only posting this to [keep my streak going](https://sepiabrown.github.io/2022/05/20/streaks/).
 
 ✎ᝰ
 

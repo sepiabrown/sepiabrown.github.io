@@ -31,7 +31,7 @@ Amen to that - you choose the web you want.
 
 So where to from here?
 
-One small experiment is the "Open Blogchain". We've already explored [blogchains](https://tomcritchlow.com/2019/07/17/blogchains/) & [cross-site blogchains](https://tomcritchlow.com/blogchains/networked-communities/) but what are Open Blogchains?
+One small experiment is the "Open Blogchain". We've already explored [blogchains](https://sepiabrown.github.io/2019/07/17/blogchains/) & [cross-site blogchains](https://sepiabrown.github.io/blogchains/networked-communities/) but what are Open Blogchains?
 
 From [CJ Eller](https://blog.cjeller.site/blogging-futures):
 

@@ -3,10 +3,10 @@ layout: tsi-chapter
 title: Navigating Power & Status
 subtitle: How to get things done inside organizations by understanding power potholes and status switching
 tags: strategy
-og: https://tomcritchlow.com/images/yes-and-og-4.png
+og: https://sepiabrown.github.io/images/yes-and-og-4.png
 ---
 
-*This is part 4 of the Yes! And... series. Start with [part 1 here](https://tomcritchlow.com/2019/11/18/yes-and/).*
+*This is part 4 of the Yes! And... series. Start with [part 1 here](https://sepiabrown.github.io/2019/11/18/yes-and/).*
 
 In [chapter 3](https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/) we looked at the difference between “problem solving” and “capacity building” consultants. Reframing consulting as capacity building opens up the ability to work on long open-ended projects with a fundamentally collaborative stance with the client. Per Paresha & Philip[^capacity]: 
 
@@ -187,7 +187,7 @@ But when to set high status and when to set low status?
 
 I’ve written before about my mental model for retained strategy projects: strategy & stewardship[^stewardship].
 
-[^stewardship]: If you’re catching up read this section: [strategy & stewardship: a framework for retained clients](https://tomcritchlow.com/2019/04/04/the-strategic-independent/#strategy-and-stewardship---a-framework-for-retaining-clients-for-a-long-time)
+[^stewardship]: If you’re catching up read this section: [strategy & stewardship: a framework for retained clients](https://sepiabrown.github.io/2019/04/04/the-strategic-independent/#strategy-and-stewardship---a-framework-for-retaining-clients-for-a-long-time)
 
 What’s interesting about these two modes of work is that **they often require blending different high/low status ideas**.
 

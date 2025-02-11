@@ -2,7 +2,7 @@
 title: "the-geography-of"
 date_saved: 2022-01-06
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/01/06/the-geography-of.html"
+link: "http://sepiabrown.micro.blog/2022/01/06/the-geography-of.html"
 ---
 The geography of a program:
 

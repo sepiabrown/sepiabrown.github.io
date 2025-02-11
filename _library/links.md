@@ -4,7 +4,7 @@ tags: [architecture, wiki]
 date_saved: 2025-01-07
 ---
 
-[https://tomcritchlow.com/2015/08/24/architecture/](https://tomcritchlow.com/2015/08/24/architecture/)
+[https://sepiabrown.github.io/2015/08/24/architecture/](https://sepiabrown.github.io/2015/08/24/architecture/)
 
 [Websites as architecture](http://www--arc.com/)
 

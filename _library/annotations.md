@@ -4,9 +4,9 @@ tags: [blogging, wiki]
 date_saved: 2025-01-07
 ---
 
-I'm very interested in new ways of networking writing. You can see some thoughts on that in my post [experiments in networked writing](https://tomcritchlow.com/2018/01/05/networked-writing/).
+I'm very interested in new ways of networking writing. You can see some thoughts on that in my post [experiments in networked writing](https://sepiabrown.github.io/2018/01/05/networked-writing/).
 
-Most of my thinking on annotations is contained in this post: [exploring the UX of web-annotations](https://tomcritchlow.com/2019/02/12/annotations/)
+Most of my thinking on annotations is contained in this post: [exploring the UX of web-annotations](https://sepiabrown.github.io/2019/02/12/annotations/)
 
 --
 

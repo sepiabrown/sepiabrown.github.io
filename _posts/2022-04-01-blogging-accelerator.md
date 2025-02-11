@@ -24,8 +24,8 @@ There are a few programs out there that will get you writing online. [Write of p
 
 Perhaps the most successful thing I've done to help get people blogging is by changing people's mental model of blogging from one of prestige and polish to one of punk and plants. My two most well-read blog posts:
 
-- [Small b blogging](https://tomcritchlow.com/2018/02/23/small-b-blogging/) about writing for small audiences and keeping it weird
-- [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/) about digital gardening and writing as a means of inquiry
+- [Small b blogging](https://sepiabrown.github.io/2018/02/23/small-b-blogging/) about writing for small audiences and keeping it weird
+- [Of Digital Streams, Campfires and Gardens](https://sepiabrown.github.io/2018/10/10/of-gardens-and-wikis/) about digital gardening and writing as a means of inquiry
 
 But the question remains and still bugs me. How do you get people to start and sustain an online writing practice?
 

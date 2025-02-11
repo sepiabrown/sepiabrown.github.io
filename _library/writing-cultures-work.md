@@ -2,7 +2,7 @@
 title: "writing-cultures-work"
 date_saved: 2021-12-01
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2021/12/01/writing-cultures-work.html"
+link: "http://sepiabrown.micro.blog/2021/12/01/writing-cultures-work.html"
 ---
 Love this piece from Johannes about writing cultures, async work and the tools we use:
 

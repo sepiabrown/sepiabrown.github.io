@@ -57,4 +57,4 @@ These games and apps are fiercely addictive. We lack willpower as human beings. 
 
 Ultimately, you don’t become bored, you become addicted. You’re at dinner. It’s interesting. The wine, food and conversation are flowing and somewhere inside your mind neurons itch for some dopamine. Drag. Refresh. Pleasure. Drag. Refresh. Pleasure? You glance at your phone. You’re addicted. The conversation flows right around you. Everyone glances at you out of the corner of their eye. They think you’re boring.
 
-*Originally published on my tumblr in 2012. Recreated here. Original design still visible at [archive.org](https://web.archive.org/web/20120416025736/http://tomcritchlow.com/post/20963321487/the-art-of-being-switched-on).*
+*Originally published on my tumblr in 2012. Recreated here. Original design still visible at [archive.org](https://web.archive.org/web/20120416025736/http://sepiabrown.github.io/post/20963321487/the-art-of-being-switched-on).*

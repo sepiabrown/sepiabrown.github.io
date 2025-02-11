@@ -13,7 +13,7 @@ Sep - Dec 2018 I'm following along with Shannon Mattern's [Maps as Media](http:/
 {% endif %}
 
 {% if post.tags contains "maps-as-media" %}
-<li class="pv2"><a href="{{ post.url }}">{{ post.title }}</a> <span class="disqus-comment-count" data-disqus-url="http://tomcritchlow.com{{post.url}}">Comments</span> | <span class="f5 f6-s ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span> </li>
+<li class="pv2"><a href="{{ post.url }}">{{ post.title }}</a> <span class="disqus-comment-count" data-disqus-url="http://sepiabrown.github.io{{post.url}}">Comments</span> | <span class="f5 f6-s ttu black-50 pv3">{{ post.date | date: "%-d %B %Y" }}</span> </li>
 {% endif %}
 
 {% if forloop.last %}
@@ -22,4 +22,4 @@ Sep - Dec 2018 I'm following along with Shannon Mattern's [Maps as Media](http:/
 
 {% endfor %}
 
-<script id="dsq-count-scr" src="//tomcritchlow.disqus.com/count.js" async></script>
+<script id="dsq-count-scr" src="//sepiabrown.disqus.com/count.js" async></script>

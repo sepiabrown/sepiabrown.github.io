@@ -8,10 +8,10 @@ arena-channels:
 - independent-consulting-academic-research
 key-links:
  - title: The Strategic Independent
-   url: https://tomcritchlow.com/strategy
+   url: https://sepiabrown.github.io/strategy
    description: I'm writing a book, serialized online, about the practice of independent consulting. Focused on how you build a rewarding, sustainable indie consulting practice.
  - title: On The Road Blogchain
-   url: https://tomcritchlow.com/blogchains/on-the-road
+   url: https://sepiabrown.github.io/blogchains/on-the-road
    description: A series of annual posts documenting my journey as an independent consultant.
 ---
 

@@ -3,7 +3,7 @@ layout: tsi-chapter
 title: Weak Ties & Strong Intros
 subtitle: How to find the “dark leads” hiding in your network to generate client work
 tags: strategy
-og: https://tomcritchlow.com/images/weak-ties-og.png
+og: https://sepiabrown.github.io/images/weak-ties-og.png
 ---
 
 The biggest challenge independent consultants face is generating new clients. When you sit down and analyze your lead flow it’s hard to draw meaningful conclusions - there aren’t that many leads to begin with so you’ve got a small sample size - and many leads appear to land in your lap “out of thin air” with no obvious way to trace back the source...
@@ -113,7 +113,7 @@ Example: I cultivate my network in a variety of ways broad and deep. My Tinylett
 
 ![](/images/spaces-2x2-new.svg)
 
-For more on this idea see [my post on setting up a discord server for my blog](https://tomcritchlow.com/2020/07/08/discord/).
+For more on this idea see [my post on setting up a discord server for my blog](https://sepiabrown.github.io/2020/07/08/discord/).
 </div>
 
 The trend du jour is Substack - and it’s a great model. But I’d argue that many Substacks are about building deeper relationships with a subscriber base - where the goal is to engage a portion of your audience in every email.
@@ -166,7 +166,7 @@ Example: my writing about consulting (meta alert!) showcases a bunch of real exa
 
 Bonus points for describing your work in memorable language. From Strange Attraction:
 
-<blockquote class="quoteback" darkmode="" data-title="Strange%20Attraction" data-author="@tomcritchlow" cite="https://tomcritchlow.com/2019/03/12/strange-attraction/">
+<blockquote class="quoteback" darkmode="" data-title="Strange%20Attraction" data-author="@sepiabrown" cite="https://sepiabrown.github.io/2019/03/12/strange-attraction/">
 <p>What’s the story here? The lesson is that language is a virus. Design your case studies to be pithy - talk about your work in small fragments that can be repeated in oral culture:</p>
 
 <ul>
@@ -176,7 +176,7 @@ Bonus points for describing your work in memorable language. From Strange Attrac
 </ul>
 
 <p>These short phrases can sum up and signal so much to the right person at the right time - and you can use many of them at once. This is an ongoing project of listening to how people make intros for you - and noting the little phrases they use. How are people understanding and describing your work in the two-line email?</p>
-<footer>@tomcritchlow <cite><a href="https://tomcritchlow.com/2019/03/12/strange-attraction/">https://tomcritchlow.com/2019/03/12/strange-attraction/</a></cite></footer>
+<footer>@sepiabrown <cite><a href="https://sepiabrown.github.io/2019/03/12/strange-attraction/">https://sepiabrown.github.io/2019/03/12/strange-attraction/</a></cite></footer>
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
@@ -208,7 +208,7 @@ Ultimately to find a sustainable way to be visible you'll need to find your own 
 
 When you first start out as an independent you won’t have a clear vision of the work you do and you’ll inevitably lean hard on your strong ties to generate clients. That’s fine! It’s how it’s supposed to work. But to succeed in building a sustainable practice you’ll need to learn how to cultivate a large surface area of weak ties and create a clear, memorable image of the work you do so that your weak ties can make strong intros.
 
-Of course, in practice work will flow through both strong ties and weak ties - I’m 6 years in and [run roughly 50/50](https://tomcritchlow.com/2020/06/26/unbundling-nyc-calendly/) for revenue generated through strong ties and weak ties.
+Of course, in practice work will flow through both strong ties and weak ties - I’m 6 years in and [run roughly 50/50](https://sepiabrown.github.io/2020/06/26/unbundling-nyc-calendly/) for revenue generated through strong ties and weak ties.
 
 But perhaps by understanding the power of weak ties we can demystify the “random acts of client work” that come to us and learn how to be more deliberate in building networks that generate client work.
  

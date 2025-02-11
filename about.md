@@ -5,7 +5,7 @@ title: About Me
 
 Hi there, I'm based in Brooklyn, NY and currently do independent consulting work for media and technology companies. I also run the SEO MBA. I'm always happy to grab a coffee or a zoom!
 
-Get in touch: [tjcritchlow@gmail.com](mailto:tjcritchlow@gmail.com) / [@tomcritchlow](http://twitter.com/tomcritchlow) 
+Get in touch: [tjcritchlow@gmail.com](mailto:tjcritchlow@gmail.com) / [@sepiabrown](http://twitter.com/sepiabrown) 
 
 <hr class="mv4">
 
@@ -26,7 +26,7 @@ z-index:-1
 <div class="flex items-stretch">
 <div class="relative ">
 <div class="greentimeline"></div>
-<img src="https://www.google.com/s2/favicons?domain=tomcritchlow.com&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
+<img src="https://www.google.com/s2/favicons?domain=sepiabrown.github.io&sz=256" class="ba v-mid dib bg-white pa1 b--black-10 h2 br-100">
 </div>
 <div class="pl3 pb4 w-90">
 <strong>Independent Consultant</strong>
@@ -118,7 +118,7 @@ A consistent theme across my work has been sharing knowledge and helping to teac
 
 More recently I launched the [SEO MBA](https://seomba.com) which is an online education platform for SEO professionals to level up their business and management skills.
 
-Maybe because of my British accent, I've been a mentor for various startup accelerators and incubators and spoken at conferences all around the world. More on my [speaking here](http://tomcritchlow.com/speaking).
+Maybe because of my British accent, I've been a mentor for various startup accelerators and incubators and spoken at conferences all around the world. More on my [speaking here](http://sepiabrown.github.io/speaking).
  
 ## Get in touch
 

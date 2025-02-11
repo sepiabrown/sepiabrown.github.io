@@ -55,7 +55,7 @@ So do whatever it takes to cash those first few invoices. That work doesn't defi
 
 Your first instinct is to think about capacity - to try and ask "how much work can I do at one time?" but this is the wrong way to think about it for two clear reasons:
 
-1. Clients come in bursts - so when good work comes along you need to say yes to it and ride the peaks (there are ways to do that without burning out: more in this post [The Jigsaw of Independence](https://tomcritchlow.com/2021/09/09/jigsaw/))
+1. Clients come in bursts - so when good work comes along you need to say yes to it and ride the peaks (there are ways to do that without burning out: more in this post [The Jigsaw of Independence](https://sepiabrown.github.io/2021/09/09/jigsaw/))
 2. Your headspace is a function of your energy and the kind of work done, not a function of minutes and hours.
 
 Time, energy and money are three forces in constant tension. But energy is a stronger force than you think. Now that you're out on your own you need to build your own mix of projects, only some of which will be revenue generating. Feed your soul with the right balance and you'll be able to achieve so much more than narrowing your work too tightly. Importantly - don't judge your projects by "how cool they sound" or "how creative they seem" - focus specifically on what the work looks like day to day. Nourish yourself and cash and calendar freedom will follow.
@@ -162,11 +162,11 @@ I'd love to tell you how this story ends but I'm at the edge of my own map. I'm 
 **Above the surface:**
 - Are you presenting yourself to the C-suite and senior stakeholders correctly?
 - Are there opportunities to take equity in companies you're working with or advising?
-- You might have several different personas or brands at this point (like me: [tomcritchlow.com](https://tomcritchlow.com) and [the SEO MBA](https://seomba.com)).
+- You might have several different personas or brands at this point (like me: [sepiabrown.github.io](https://sepiabrown.github.io) and [the SEO MBA](https://seomba.com)).
 
 **Below the surface:**
 - What do you *really* want to spend your cash/calendar freedom on? Family? A startup? What kind of equity do you need to continue this for the next 15-20 years?
-- You might get tempted to write a book / launch a conference or some other ego driven identity project. (I'm [writing a book](https://tomcritchlow.com/strategy/)!). Remember to embed your real self in it.
+- You might get tempted to write a book / launch a conference or some other ego driven identity project. (I'm [writing a book](https://sepiabrown.github.io/strategy/)!). Remember to embed your real self in it.
 
 **Potential failure modes:**
 - Given your publishing and point of view you might feel comfortable adding new brands and deliberate products / consulting offerings. I think you have to be careful here. Early success isn't necessarily the same thing as launching something you can sustain.

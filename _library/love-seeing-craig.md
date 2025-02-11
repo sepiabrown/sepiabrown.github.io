@@ -2,7 +2,7 @@
 title: "love-seeing-craig"
 date_saved: 2022-03-01
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/03/01/love-seeing-craig.html"
+link: "http://sepiabrown.micro.blog/2022/03/01/love-seeing-craig.html"
 ---
 Love seeing Craig Mod build his next book in this daily email series for subscribers. Figma is a great tool for this!!
 

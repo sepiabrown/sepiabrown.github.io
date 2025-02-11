@@ -74,7 +74,7 @@ In addition I've worked closely with product innovation across Google Creative L
 
 ## How to work together
 
-Building a trusted working relationship starts with getting to know each other. Feel free to grab time to chat informally on my Calendly link: [calendly.com/tomcritchlow](https://calendly.com/tomcritchlow/).
+Building a trusted working relationship starts with getting to know each other. Feel free to grab time to chat informally on my Calendly link: [calendly.com/sepiabrown](https://calendly.com/sepiabrown/).
 
 Engagements often start with a short, small group workshop where we can create clarity around both the problem and solution in a short space of time. These workshops often springboard into larger ongoing retainers and embedded leadership engagements.
 

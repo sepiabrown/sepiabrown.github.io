@@ -2,7 +2,7 @@
 title: "make-the-web"
 date_saved: 2022-03-24
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/03/24/make-the-web.html"
+link: "http://sepiabrown.micro.blog/2022/03/24/make-the-web.html"
 ---
 "Make the web respire to natural rhythms" 
 

@@ -5,12 +5,12 @@
 {% assign bookshelf3  = site.pages | where_exp:"item", "item.path contains '7bks-maths-books'" | first %}
 {
   "name": "Tom's Library",
-  "url": "https://tomcritchlow.com/wiki/books/books-read",
+  "url": "https://sepiabrown.github.io/wiki/books/books-read",
   "bio": "A running list of books I've read...",
   "lists":[
     {
     "name": "Books Read",
-    "url": "https://tomcritchlow.com/wiki/books/books-read/",
+    "url": "https://sepiabrown.github.io/wiki/books/books-read/",
     "books":
           [{% for book in bookshelf.books %}{
         "title": {{book.title | jsonify}},
@@ -24,7 +24,7 @@
     },
     {
       "name": "Stories About Consultants",
-      "url": "https://tomcritchlow.com/wiki/books/stories-about-consultants/",
+      "url": "https://sepiabrown.github.io/wiki/books/stories-about-consultants/",
       "books":
             [{% for book in bookshelf2.books %}{
           "title": {{book.title | jsonify}},
@@ -38,7 +38,7 @@
       },
       {
         "name": "My Favourite Maths Books",
-        "url": "https://tomcritchlow.com/wiki/books/7bks-maths-books/",
+        "url": "https://sepiabrown.github.io/wiki/books/7bks-maths-books/",
         "books":
               [{% for book in bookshelf3.books %}{
             "title": {{book.title | jsonify}},

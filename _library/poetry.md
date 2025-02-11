@@ -87,7 +87,7 @@ And above the windows have hinged into butterflies,
 sunlight glinting where they've intersected.
 They are going to some point true and unproven.
 
-[Geometry by Rita Dove](https://twitter.com/tomcritchlow/status/1046068303318462464)
+[Geometry by Rita Dove](https://twitter.com/sepiabrown/status/1046068303318462464)
 
 --
 

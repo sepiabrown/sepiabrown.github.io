@@ -4,7 +4,7 @@ subtitle: Infinite gardens
 layout: blog
 ---
 
-https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/
+https://sepiabrown.github.io/2018/10/10/of-gardens-and-wikis/
 
 Spiritual successor to the idea of gardens.
 

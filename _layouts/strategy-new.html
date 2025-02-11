@@ -276,7 +276,7 @@ details[open] summary:after {
 <div class="f6 black-50 pv3">by <a href="/" class="bookgreen">Tom Critchlow</a></div>
 
 <div class="pt3 pv4-l b--bookgreen-20 z-1">
-  <form class="w-100 pt2-l" action="https://tinyletter.com/tomcritchlow" method="post" target="popupwindow">
+  <form class="w-100 pt2-l" action="https://tinyletter.com/sepiabrown" method="post" target="popupwindow">
       <fieldset class="cf bn ma0 pa0">
         <div class="cf">
           <div class="f6 black-60 i pb2">Sign up to get notified of new chapters</div>
@@ -348,7 +348,7 @@ details[open] summary:after {
 
   <div class="pv4 flex">
       <input readonly
-        value="http://tomcritchlow.com{{page.url}}"
+        value="http://sepiabrown.github.io{{page.url}}"
         title ="{{page.title}}"
         id="pageurl"
         class="mw-100 w-60 w5-ns f6 input-reset ba b--black-20 pv2 ph2 mr2 border-box silver"
@@ -395,7 +395,7 @@ details[open] summary:after {
             .share({
               title: "{{page.title}}",
               text: "{{page.title}}",
-              url: "http://tomcritchlow.com{{page.url}}"
+              url: "http://sepiabrown.github.io{{page.url}}"
             })
             .then(() => console.log("Successful share"))
             .catch(error => console.log("Error sharing", error));
@@ -426,7 +426,7 @@ details[open] summary:after {
 
 
 {% for item in chapter_array %}
-  {% capture page_url_full %}https://tomcritchlow.com{{page.url}}{%endcapture%}
+  {% capture page_url_full %}https://sepiabrown.github.io{{page.url}}{%endcapture%}
   {% if item == page_url_full %}
     {% assign position = forloop.index0 %}
     {% assign previous = position | minus:1 %}

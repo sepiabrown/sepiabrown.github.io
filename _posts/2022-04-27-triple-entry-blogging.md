@@ -34,7 +34,7 @@ But there's a nice benefit to running my blog through Github - I accidentally ge
 
 1. My local machine (stored as text files)
 2. Github creates a robust version, complete with version history
-3. The web at tomcritchlow.com (where all kinds of spiders crawl all over it)
+3. The web at sepiabrown.github.io (where all kinds of spiders crawl all over it)
 
 There's no export button - everything is automatically replicated in all three places and you could probably replicate this blog from any of the three copies.
 
@@ -76,7 +76,7 @@ But what happens when writing server-side code is as easy as writing front end c
 
 🔢
 
-Here's a real example. A while back I posted up some thoughts about a decentralized Goodreads: [Library JSON - A Proposal for a Decentralized Goodreads](https://tomcritchlow.com/2020/04/15/library-json/).
+Here's a real example. A while back I posted up some thoughts about a decentralized Goodreads: [Library JSON - A Proposal for a Decentralized Goodreads](https://sepiabrown.github.io/2020/04/15/library-json/).
 
 The idea is that a million individual static sites can publish their book lists in a way that allows us to build Goodreads-esque behavior on top of it.
 

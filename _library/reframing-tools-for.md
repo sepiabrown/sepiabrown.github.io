@@ -2,7 +2,7 @@
 title: "reframing-tools-for"
 date_saved: 2022-01-22
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/01/22/reframing-tools-for.html"
+link: "http://sepiabrown.micro.blog/2022/01/22/reframing-tools-for.html"
 ---
 I love this one from Linus on how we might create more of a community or field of research in the "tools for thought" space
 

@@ -23,7 +23,7 @@ Blogging! Yes, blogging is still too damn hard. Some active lines of inquiry for
 
 ## Indie Consulting
 
-Indie consulting is where I pay the bills and obviously [my book project](https://tomcritchlow.com/strategy/) is exploring this concept in depth. Some active lines of inquiry:
+Indie consulting is where I pay the bills and obviously [my book project](https://sepiabrown.github.io/strategy/) is exploring this concept in depth. Some active lines of inquiry:
 
 - **Improv skills**. Yes! And... How do you cultivate, teach and leverage thinking on your feet, improv, client sparring and more within the context of client work? So much of my work blurs the line between consulting and coaching, this 1:1 work brings me alive but requires this kind of improv reflex...
 - **Power & Status**. I'm fascinated by how power flows inside organizations. How do you see the shadow org chart? How do you navigate inside an organization as an outsider? How do you actually get things done? See this paper on [post-bureaucratic agents of change](https://twitter.com/tomcritchlow/status/1465404484042035203)
@@ -42,9 +42,9 @@ With the launch of the [SEO MBA](https://seomba.com/) I have a playground to app
 
 I've been obsessed for a long time with the web as a texture - malleable programming, mini hacks and flexible personal scripting. From using importxml in Google Docs to writing little apps on Glitch/Replit.
 
-- **Bookmarklets**. I've been writing little bookmarklets for a long time, these days they're mostly used for things like [scripting my static site](https://tomcritchlow.com/2019/06/19/bookmarklets-static-sites/).
+- **Bookmarklets**. I've been writing little bookmarklets for a long time, these days they're mostly used for things like [scripting my static site](https://sepiabrown.github.io/2019/06/19/bookmarklets-static-sites/).
 - **[Quotebacks](https://quotebacks.net/)**. A combination of digital bricolage and blogging this was a fun exploration of a new approach to networked writing that involved pushing my skills - what might further experiments look like here?
-- **Coding for everyone**. I'm obsessed with making coding easier to learn, easier to get started with and easier to share/collaborate on. That's why I love environments like Replit/Glitch - but [I think we can go further](https://tomcritchlow.com/2021/01/14/new-browsers/).
+- **Coding for everyone**. I'm obsessed with making coding easier to learn, easier to get started with and easier to share/collaborate on. That's why I love environments like Replit/Glitch - but [I think we can go further](https://sepiabrown.github.io/2021/01/14/new-browsers/).
 - **Electric tables**. This project is in stealth but why isn't it easier to compare & collaborate on web pages? Continues the theme of web as texture...
 
 That's a bit of stream of consciousness for open lines of inquiry that I'm considering and thinking about in Jan 2022. What about you?

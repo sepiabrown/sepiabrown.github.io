@@ -6,7 +6,7 @@ layout: blog
 
 It's a deceptively simple model but one that appreciates over time.
 
-https://gist.github.com/tomcritchlow/ff7d7a15efdb65cd10c469e868bea186
+https://gist.github.com/sepiabrown/ff7d7a15efdb65cd10c469e868bea186
 
 
 <blockquote class="quoteback" data-title="Introduction to Executive Sparring" data-author="Venkatesh Rao" cite="https://artofgig.substack.com/">
@@ -17,16 +17,16 @@ https://gist.github.com/tomcritchlow/ff7d7a15efdb65cd10c469e868bea186
 
 The unit of progress for consulting is sparring sessions:
 
-<blockquote class="quoteback" data-title="Yes! and... Chapter 3 - Blocking & Unblocking Clients" data-author="@tomcritchlow" cite="https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/">
+<blockquote class="quoteback" data-title="Yes! and... Chapter 3 - Blocking & Unblocking Clients" data-author="@sepiabrown" cite="https://sepiabrown.github.io/2019/12/06/blocking-unblocking-clients/">
 Strategy is not a single point in time powerpoint deck. Good strategy is an unfolding network of associations throughout an organization. And the unit of progress for the consultant is often the sparring session with the client.
-<footer>@tomcritchlow <cite><a href="https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/">https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/</a></cite></footer>
+<footer>@sepiabrown <cite><a href="https://sepiabrown.github.io/2019/12/06/blocking-unblocking-clients/">https://sepiabrown.github.io/2019/12/06/blocking-unblocking-clients/</a></cite></footer>
 </blockquote>
 <script note="REPLACE WITH REAL SCRIPT" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 
 This is why posts like this are useful - they represent an appreciative mental model of content which is my guru-dom:
 
-https://tomcritchlow.com/2017/06/27/branding-in-the-age-of-content/
+https://sepiabrown.github.io/2017/06/27/branding-in-the-age-of-content/
 
 Copy and paste slack convo directly in
 

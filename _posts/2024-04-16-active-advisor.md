@@ -2,7 +2,7 @@
 title: Working With Founders Who Have Conviction and Taste
 subtitle: Opening up a few spots for my active advisory practice
 layout: blog
-og: https://tomcritchlow.com/images/active-advisor-og.png
+og: https://sepiabrown.github.io/images/active-advisor-og.png
 ---
 
 Consulting can be easy money. Fleecing clients for cheap tricks. Clients have problems, you have powerpoints. It’s easy to flip a few quick slides into a chunk of cash and cackle off into the mountains.
@@ -31,7 +31,7 @@ Here’s the TL;DR:
 * I’ve got a broad skillset - from building an investor presentation, a finance spreadsheet to a user research prototype.
 * Active Advisory work is typically a ~$6k / month 
 * I’ve got a few spots open starting later this year.
-* [Grab a time on my calendly](https://calendly.com/tomcritchlow) if you want to chat.
+* [Grab a time on my calendly](https://calendly.com/sepiabrown) if you want to chat.
 
 Active Advisory is my version of advising work that makes a difference.
 
@@ -152,7 +152,7 @@ Some things that might be relevant:
 * Sold millions of dollars worth of professional services
 * Assembled innovation teams, run customer research, designed product interfaces and built landing pages
 
-So how about it? If you want to chat about working together [grab some time](https://calendly.com/tomcritchlow) or drop me an email: [tjcritchlow@gmail.com](mailto:tjcritchlow@gmail.com).
+So how about it? If you want to chat about working together [grab some time](https://calendly.com/sepiabrown) or drop me an email: [tjcritchlow@gmail.com](mailto:tjcritchlow@gmail.com).
 
 Of course, the best leads come from my friends. If you’re reading this and think you know someone who would be a good fit, I’d love an intro!
 

@@ -2,7 +2,7 @@
 title: "love-this-from"
 date_saved: 2021-12-06
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2021/12/06/love-this-from.html"
+link: "http://sepiabrown.micro.blog/2021/12/06/love-this-from.html"
 ---
 Love this from Simon - his stream is the primary inspiration for this notes microblog...
 

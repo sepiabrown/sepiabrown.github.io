@@ -2,7 +2,7 @@
 title: "media-inside-baseball"
 date_saved: 2022-03-06
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/03/06/media-inside-baseball.html"
+link: "http://sepiabrown.micro.blog/2022/03/06/media-inside-baseball.html"
 ---
 Media inside baseball, yes. But also great commentary and exploration of the power dynamics against "building a brand" or "being very online"
 

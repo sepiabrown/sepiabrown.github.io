@@ -2,7 +2,7 @@
 title: "paul-robert-lloyd"
 date_saved: 2022-03-10
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/03/10/paul-robert-lloyd.html"
+link: "http://sepiabrown.micro.blog/2022/03/10/paul-robert-lloyd.html"
 ---
 Paul Robert Lloyd on creating "design histories":
 

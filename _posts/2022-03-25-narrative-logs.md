@@ -6,7 +6,7 @@ layout: blog
 
 When you know where you're going it's easy to navigate. When you don't know where you're going... well obviously steering is a bit harder?
 
-That's why [working with the garage door open](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu) or [thinking in public](https://tomcritchlow.com/2020/07/23/thinking-in-public/) is a powerful tool for research projects, startups and new ventures.
+That's why [working with the garage door open](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu) or [thinking in public](https://sepiabrown.github.io/2020/07/23/thinking-in-public/) is a powerful tool for research projects, startups and new ventures.
 
 I've long been inspired by Matt Webb's weeknotes from Berg - if you're not familiar he talks about them in his [pre-history of weeknotes](https://interconnected.org/home/2018/07/24/weeknotes):
 

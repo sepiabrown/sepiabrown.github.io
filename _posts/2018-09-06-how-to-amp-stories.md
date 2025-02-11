@@ -55,13 +55,13 @@ So first I created an ampstory.html layout file:
 
 ![](/images/ampcode2.png)
 
-[View the file on Github](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_layouts/ampstory.html)
+[View the file on Github](https://github.com/sepiabrown/sepiabrown.github.io/blob/master/_layouts/ampstory.html)
 
 And then everything is done in the front matter of a story file like this:
 
 ![](/images/ampcode.png)
 
-[View a sample story file here](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_stories/space.md)
+[View a sample story file here](https://github.com/sepiabrown/sepiabrown.github.io/blob/master/_stories/space.md)
 
 ## How to use this to make AMP stories
 
@@ -86,19 +86,19 @@ Two important notes for furthering creativity: the frontmatter supports emojis ð
 
 You'll see that this is all pretty crude and easily extensible. For more of an idea of what is possible take a look at [CNN's AMP stories](https://www.cnn.com/ampstories/).
 
-Alternatively - I also made a super simple format that just takes a single input - a folder path. Then it generates an AMP story from all the images in that folder. See an [example file here](https://github.com/tomcritchlow/tomcritchlow.github.io/blob/master/_stories/gallery.md).
+Alternatively - I also made a super simple format that just takes a single input - a folder path. Then it generates an AMP story from all the images in that folder. See an [example file here](https://github.com/sepiabrown/sepiabrown.github.io/blob/master/_stories/gallery.md).
 
 ## Here's a few example stories I made:
 
 So! With all of that out of the way - what have I been playing around with? Here's a few fun little stories I've been using to test out the functionality:
 
-[Amazing Space Colony Art from the 1970s](https://tomcritchlow.com/stories/space/) - this story is based on an article I read about this amazing space colony art that NASA commissioned in the 70s. Perfect space-gaping images for AMP stories.
+[Amazing Space Colony Art from the 1970s](https://sepiabrown.github.io/stories/space/) - this story is based on an article I read about this amazing space colony art that NASA commissioned in the 70s. Perfect space-gaping images for AMP stories.
 
-[Why you should read the left hand of darkness by Ursula K Leguin](https://tomcritchlow.com/stories/left-hand-darkness/) - I recently finished this book and thought book covers make for interesting AMP story content.
+[Why you should read the left hand of darkness by Ursula K Leguin](https://sepiabrown.github.io/stories/left-hand-darkness/) - I recently finished this book and thought book covers make for interesting AMP story content.
 
-[Hoop loops - fun basketball gifs](https://tomcritchlow.com/stories/nba/) - you can use gifs in AMP stories!
+[Hoop loops - fun basketball gifs](https://sepiabrown.github.io/stories/nba/) - you can use gifs in AMP stories!
 
-And if you want to peek under the hood you can see all of the [raw files on github here](https://github.com/tomcritchlow/tomcritchlow.github.io/tree/master/_stories).
+And if you want to peek under the hood you can see all of the [raw files on github here](https://github.com/sepiabrown/sepiabrown.github.io/tree/master/_stories).
 
 
 ## Where next?
@@ -109,7 +109,7 @@ One feature that is especially clunky right now is adding links. But I'm excited
 
 It's still fun to be able to play around with this new kind of format on my own domain. And I'm excited for where things go next.
 
-If you make anything from this code @ me on twitter (@tomcritchlow) or leave a comment below!
+If you make anything from this code @ me on twitter (@sepiabrown) or leave a comment below!
 
 --
 

@@ -10,7 +10,7 @@
     {% if post.draft == true %}
     {% else %}
     <url>
-      <loc>https://tomcritchlow.com{{post.url}}</loc>
+      <loc>https://sepiabrown.github.io{{post.url}}</loc>
       </url>
       {% endif %}
     {% endfor %}

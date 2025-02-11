@@ -2,7 +2,7 @@
 title: "testing-twitter-embed"
 date_saved: 2021-11-21
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2021/11/21/testing-twitter-embed.html"
+link: "http://sepiabrown.micro.blog/2021/11/21/testing-twitter-embed.html"
 ---
 Testing Twitter embed..
 

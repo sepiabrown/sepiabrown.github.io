@@ -2,7 +2,7 @@
 title: "lovely-little-meditation"
 date_saved: 2022-04-11
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/04/11/lovely-little-meditation.html"
+link: "http://sepiabrown.micro.blog/2022/04/11/lovely-little-meditation.html"
 ---
 Lovely little meditation and exploration on custom workflows, software and tools to enable high level research:
 

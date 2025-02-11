@@ -2,7 +2,7 @@
 title: Manifesting My Dream Clients & Projects for 2024
 subtitle: Let's do good work together
 layout: blog
-og: https://tomcritchlow.com/images/dream-clients-og.png
+og: https://sepiabrown.github.io/images/dream-clients-og.png
 ---
 
 New year, new me, new clients am I right?
@@ -51,11 +51,11 @@ I'm such a fanboy that I'd work with Figma on anything ha. But here's a few idea
 * How can we do more interesting, adventurous editorial projects? Inspired by [Stripe press](https://press.stripe.com/) and [Figma essays](https://www.figma.com/file/IV5AGF2aV75vau327SUKSy/CRYPTO-PHILANTHROPY?node-id=0%3A1&utm_source=figmathinkers&utm_medium=email&utm_campaign=figma-thinkers-week-8-creative-figma-uses). How might we explore a wider, more creative range of publishing and editorial projects to show off what Figma can do?
 * From an SEO perspective, Canva has done a masterful job with templates, tools and content designed for SEO and gets... *checks notes*... about 3400% more Google traffic[^figma]. What would the Figma equivalent SEO play be here?
 
-[^figma]: See [screenshot](https://tomcritchlow.com/images/2024-01-17-13-33-19.png){:target="_blank"}
+[^figma]: See [screenshot](https://sepiabrown.github.io/images/2024-01-17-13-33-19.png){:target="_blank"}
 
 ## Replit
 
-Tinkering with the web is a foundational part of my identity. I've called this [digital bricolage](https://tomcritchlow.com/2023/01/20/digital-bricolage/) before. I'm not a real developer, just like I'm not a real designer and yet I build things on Replit all the time!
+Tinkering with the web is a foundational part of my identity. I've called this [digital bricolage](https://sepiabrown.github.io/2023/01/20/digital-bricolage/) before. I'm not a real developer, just like I'm not a real designer and yet I build things on Replit all the time!
 
 I'm a huge advocate for tools that lower the bar to entry for more users and help people expand what they think is possible. Couple that with a deep frustration at how most developer tools on board users (see: [why can't I code inside my browser](https://tomcritchlow.com/2021/01/14/new-browsers/)) and Replit is a dream client.
 
@@ -127,8 +127,8 @@ Some ideas:
 
 * Right now I'm collaborating with some tech-heads who are pitching AI-content solutions where I can be the marketing and strategy lead in the room. That's fun.
 * I've been tangentially involved in a bunch of M&A projects over the last few years but I'd love to get more formally integrated into M&A workflows, private equity valuation projects and more.
-* I've thought a lot about [executive dashboards](https://tomcritchlow.com/2022/05/06/executive-dashboards/) and built a monthly business review packet for one of my clients. If you're working in this area holler at me, let's share notes!
-* Same for [executive offsites](https://tomcritchlow.com/2022/10/06/exec-offsites/) - why are they so broken? If you're working on fixing these give me a shout and let's work together.
+* I've thought a lot about [executive dashboards](https://sepiabrown.github.io/2022/05/06/executive-dashboards/) and built a monthly business review packet for one of my clients. If you're working in this area holler at me, let's share notes!
+* Same for [executive offsites](https://sepiabrown.github.io/2022/10/06/exec-offsites/) - why are they so broken? If you're working on fixing these give me a shout and let's work together.
 * For established, perhaps older, consultants a collaboration around knowledge sharing, publishing and blogging would be super fun. 
 * More broadly - if you're coming at strategy from the creative and brand perspective I can make a great bridge to the more data-driven and technical end of marketing and business strategy.
 
@@ -150,4 +150,4 @@ Challenge #1 I suppose is how to describe this work. The best I've come up with 
 
 ---
 
-Let's manifest at least one or two of these in 2024! If you want to get in touch [click here](https://tomcritchlow.com/consulting/).
+Let's manifest at least one or two of these in 2024! If you want to get in touch [click here](https://sepiabrown.github.io/consulting/).

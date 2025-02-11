@@ -4,7 +4,7 @@ title: Some Interesting Agencies
 subtitle: A few fresh approaches I've seen recently
 ---
 
-As an independent consultant who has been thinking a lot about the concept of an agency or brand as a container for work ([reference](http://tomcritchlow.com/2016/08/01/brand/)) I'm always on the eye out for fresh thinking in the agency world.
+As an independent consultant who has been thinking a lot about the concept of an agency or brand as a container for work ([reference](http://sepiabrown.github.io/2016/08/01/brand/)) I'm always on the eye out for fresh thinking in the agency world.
 
 So here's a few interesting tidbits and ideas of fresh thinking on agency structure and positoining.
 

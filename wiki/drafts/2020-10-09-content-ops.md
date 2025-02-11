@@ -23,7 +23,7 @@ There are some key mistakes that get made:
 
 So - I'm re-evaulating my positon on the "editor in chief" role. Instead I see an emerging role that I'm going to call "content ops"[^mediadesign]
 
-[^mediadesign]: I've previously called this the practice of "[media design](https://tomcritchlow.com/2018/07/25/media-design/)" 
+[^mediadesign]: I've previously called this the practice of "[media design](https://sepiabrown.github.io/2018/07/25/media-design/)" 
 
 Content Ops is a new embracing of the hybrid role that editorial people inside organizations need to play.
 

@@ -3,7 +3,7 @@ title: LinkedIn is not a social or professional network, it's a learning network
 subtitle: The world of work needs a new script
 layout: blog
 topics: education
-og: https://tomcritchlow.com/images/linkedin-og.png
+og: https://sepiabrown.github.io/images/linkedin-og.png
 ---
 
 The world of work is changing.
@@ -220,4 +220,4 @@ Here's something bananas. A performance improvement plan is a *negative* thing! 
 
 Instead of learning coming last, what if it came first.
 
-*If you like this, [continue the discussion on LinkedIn](https://www.linkedin.com/posts/tomcritchlow_linkedin-is-not-a-social-or-professional-activity-7178738086330204163-stBu)*
+*If you like this, [continue the discussion on LinkedIn](https://www.linkedin.com/posts/sepiabrown_linkedin-is-not-a-social-or-professional-activity-7178738086330204163-stBu)*

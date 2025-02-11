@@ -40,7 +40,7 @@ The more you understand an organization the better you can understand context{% 
 
 The more you understand an organization the better you can understand context[^context].
 
-[^context]: I wrote a whole post called [ways of seeing](https://tomcritchlow.com/2018/10/29/ways-of-seeing/) that explores ideas around sensemaking inside an organization
+[^context]: I wrote a whole post called [ways of seeing](https://sepiabrown.github.io/2018/10/29/ways-of-seeing/) that explores ideas around sensemaking inside an organization
 
 ## Overlapping contexts
 
@@ -330,7 +330,7 @@ Hopefully this long post was helpful - let's recap the main points:
 
 I'm writing a book. Originally it was designed for "independent consultants" and... that's still an audience. But I realized writing this post that the audience is wider - I'm writing not just for those doing "consulting" or even "strategy work" but also designers, writers, researchers, leaders who are doing **strategic work, independently - the strategic independent**.
 
-To peek [the outline for the book head over here](https://tomcritchlow.com/strategy/), and you can [subscribe to my newsletter here](https://tinyletter.com/tomcritchlow) to keep updated with the latest.
+To peek [the outline for the book head over here](https://sepiabrown.github.io/strategy/), and you can [subscribe to my newsletter here](https://tinyletter.com/sepiabrown) to keep updated with the latest.
 
 I'd love to hear your experience with strategic work, independence and context. Leave me some comments below!
 

@@ -2,7 +2,7 @@
 title: "so-now-ive"
 date_saved: 2021-12-14
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2021/12/14/so-now-ive.html"
+link: "http://sepiabrown.micro.blog/2021/12/14/so-now-ive.html"
 ---
 So now I've rolled out my new site design I want to generate some new open graph images (the old white/green sqaure is a bit out of date)...
 
@@ -12,4 +12,4 @@ This looks like a very promising approach:
 
 Though - I really wish that you could use SVG files as open graph images, then I could generate them dynamically via Jekyll!
 
-https://tomcritchlow.com/test.svg
+https://sepiabrown.github.io/test.svg

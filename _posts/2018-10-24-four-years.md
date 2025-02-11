@@ -5,7 +5,7 @@ subtitle: Sustainability, Independence & The Unknown
 blogchain: on-the-road
 ---
 
-*October 24th is the anniversary of when I quit my last full time job to head out as an independent consultant. Catch up with [2 years on the road](https://tomcritchlow.com/2016/10/24/2-years/) and [3 years on the road](https://tomcritchlow.com/2017/10/24/3-years/)*
+*October 24th is the anniversary of when I quit my last full time job to head out as an independent consultant. Catch up with [2 years on the road](https://sepiabrown.github.io/2016/10/24/2-years/) and [3 years on the road](https://sepiabrown.github.io/2017/10/24/3-years/)*
 
 Four years on the road. The metaphor of the road-trip still rings true - a sense of not having a stable home but rather having to make your home wherever you are. Unmoored and untethered. Dislocated from the *system*.
 
@@ -78,7 +78,7 @@ Earlier this year I uncovered (invented?) the concept of Media Design. I took a 
 
 *Media Design is the practice of designing effective systems of content within the overlapping ecosystems of technology, distribution, production and experience.*
 
-With the uncovering of media design earlier this year my positioning and narrative is basically I do strategic [media design](https://tomcritchlow.com/2018/07/25/media-design/) work through [strategy and stewardship](https://tomcritchlow.com/2018/06/28/strategy-stewardship/).
+With the uncovering of media design earlier this year my positioning and narrative is basically I do strategic [media design](https://sepiabrown.github.io/2018/07/25/media-design/) work through [strategy and stewardship](https://sepiabrown.github.io/2018/06/28/strategy-stewardship/).
 
 This is a less concise framing but I think adds some more nuance to the kind of work I do and feels like it rings true.
 
@@ -94,11 +94,11 @@ As an aside - I'm finding writing case studies to be challenging. Who's story is
 
 2018 has been a great year for writing! Tons of blogging that I'm proud of. Some of my personal faves from the past year:
 
-- [small b blogging](https://tomcritchlow.com/2018/02/23/small-b-blogging/)
-- [strategy & stewardship](https://tomcritchlow.com/2018/06/28/strategy-stewardship/)
-- [high fidelity consulting](https://tomcritchlow.com/2018/07/10/high-fidelity-consulting/)
-- [the practice of media design](https://tomcritchlow.com/2018/07/25/media-design/)
-- [the power of labels](https://tomcritchlow.com/2018/09/17/naming/)
+- [small b blogging](https://sepiabrown.github.io/2018/02/23/small-b-blogging/)
+- [strategy & stewardship](https://sepiabrown.github.io/2018/06/28/strategy-stewardship/)
+- [high fidelity consulting](https://sepiabrown.github.io/2018/07/10/high-fidelity-consulting/)
+- [the practice of media design](https://sepiabrown.github.io/2018/07/25/media-design/)
+- [the power of labels](https://sepiabrown.github.io/2018/09/17/naming/)
 
 But blogging is only the surface... I'm starting to think about writing a book. It'll be something like a manual for other independent consultants - based off my writing around [the consultant's grain](https://tomcritchlow.com/2017/07/18/the-consultants-grain/) and [a fieldguide for independent consultants](https://tomcritchlow.com/2016/12/14/fieldguide-independent-consulting/) and attempting to thread the needle between theory and practice.
 

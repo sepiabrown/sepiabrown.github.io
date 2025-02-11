@@ -14,7 +14,7 @@ var resultsAvailable = false; // Did we get any search results?
 maininput.focus();
 loadSearch();
 
-// add microblog https://notes.tomcritchlow.com/archive/index.json
+// add microblog https://notes.sepiabrown.github.io/archive/index.json
 // add arena channels?
 
 document.addEventListener('keydown', function (event) {
@@ -59,7 +59,7 @@ function fetchJSONFile(path, callback) {
 // load our search index, only executed once
 //
 function loadSearch() {
-  fetchJSONFile('https://tomcritchlow.com/index.json', function (data) {
+  fetchJSONFile('https://sepiabrown.github.io/index.json', function (data) {
     var options = {
       shouldSort: true,
       ignoreLocation: true,

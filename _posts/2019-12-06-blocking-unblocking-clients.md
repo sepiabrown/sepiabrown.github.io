@@ -3,10 +3,10 @@ layout: tsi-chapter
 title: Blocking & Unblocking Clients
 subtitle: Generating & Co-Creating Strategy in the Theatre of Work
 tags: strategy
-og: https://tomcritchlow.com/images/yes-and-og-3.png
+og: https://sepiabrown.github.io/images/yes-and-og-3.png
 ---
 
-*This post is part 3 of the Yes! And... series. Catch up on [Chapter 1](https://tomcritchlow.com/2019/11/18/yes-and/) and [Chapter 2](https://tomcritchlow.com/2019/11/19/optimism-operating-system/)*.
+*This post is part 3 of the Yes! And... series. Catch up on [Chapter 1](https://sepiabrown.github.io/2019/11/18/yes-and/) and [Chapter 2](https://sepiabrown.github.io/2019/11/19/optimism-operating-system/)*.
 
 Good strategy sessions, like good improv sessions, are a product of multiple actors working together to build scenes collaboratively. Typically, however, we spend more time thinking about how to craft good strategies than we do thinking about how to create productive strategy sparring sessions.
 
@@ -68,7 +68,7 @@ I imagine a “branching” visualization like this (blue for client, green for 
 
 ![](/images/yes-and-branching.svg)
 
-As I talk about in my [frameworks post](https://tomcritchlow.com/2019/06/27/frameworks/) the co-creation process allows for more crucial client context to be part of the strategy (i.e. it’s more true) and it allows for more ownership from the client (i.e. the IKEA effect).
+As I talk about in my [frameworks post](https://sepiabrown.github.io/2019/06/27/frameworks/) the co-creation process allows for more crucial client context to be part of the strategy (i.e. it’s more true) and it allows for more ownership from the client (i.e. the IKEA effect).
 
 ```Example: Continuing the Wirecutter conversation above you can see how we’re already folding in more of the client context into the strategy and we’re already co-creating vs me (the consultant) just telling the client what to do. This process will better uncover exactly why these category reviews are part of their company DNA or more concrete examples of missed opportunities from not publishing stand alone review pages. This co-creation ultimately creates a shared vision of how we might move forward.```
 
@@ -80,7 +80,7 @@ So it’s useful to understand the situations where *Yes! And…* is most useful
 
 I like this idea - that the most useful thing you need client input and co-creation on is the “base reality” - the “Who, What, Where”. For consultants coming in from the outside attempting to “solve problems” for clients the biggest flaw in generic strategies is not properly accounting for who is at the company, what we’re actually trying to solve and where this strategy will play out[^just].
 
-[^just]: Recall from [chapter 2](https://tomcritchlow.com/2019/11/19/optimism-operating-system/) - there is no 'just' in consulting - clients are ecosystems in balance...
+[^just]: Recall from [chapter 2](https://sepiabrown.github.io/2019/11/19/optimism-operating-system/) - there is no 'just' in consulting - clients are ecosystems in balance...
 
 And this can be useful because clients can ramble - they can get wrapped up in their arguments. This is no pejorative statement but rather just a function of how much time clients typically devote to “strategy” and improv thinking.
 
@@ -117,7 +117,7 @@ Some of the ways I’ve encountered blocked clients:
 
 For all of these situations, Impro has delightful and rich ideas to help you coach actors into unblocking themselves. The book is very much about how to teach people to unblock themselves - which again is valuable for a consultant.
 
-Many of these can be mitigated or helped through a default optimistic and positive attitude and mindset as outlined in [chapter 2 - optimism as an operating system](https://tomcritchlow.com/2019/11/19/optimism-operating-system/). Remember the powerful phrase *“this is a solvable problem”*.
+Many of these can be mitigated or helped through a default optimistic and positive attitude and mindset as outlined in [chapter 2 - optimism as an operating system](https://sepiabrown.github.io/2019/11/19/optimism-operating-system/). Remember the powerful phrase *“this is a solvable problem”*.
 
 Let’s take a look at one specific situation that I see a lot however and that Impro has a particularly good solution for - the situation where a client expects original strategy or clever strategy from the consultant. From Impro:
 
@@ -179,7 +179,7 @@ They go on to identify four core mental models that separate problem solvers and
 
 ![](/images/alternative-models-of-consulting.jpg)
 
-Much like when I stumbled across “[strategy & stewardship](https://tomcritchlow.com/2018/06/28/strategy-stewardship/)” this concept of “capacity building vs problem solving” gives language to something I’ve known intuitively for a long time.
+Much like when I stumbled across “[strategy & stewardship](https://sepiabrown.github.io/2018/06/28/strategy-stewardship/)” this concept of “capacity building vs problem solving” gives language to something I’ve known intuitively for a long time.
 
 It’s going to be foundational to my thinking about consulting and I suggest you give this a close read: Consultants as problem solvers or capacity builders?
 
@@ -209,7 +209,7 @@ The bad way to interrupt routines is through a deliberate intervention - somethi
 
 Rather - the better way to interrupt routines is via a thorough understanding of existing workflows, processes and routines[^logistics]. Most new capacities relate to an existing routine either directly or indirectly and the job of the consultant is to map the organization effectively to understand where and how we can interrupt to build new routines.
 
-[^logistics]: I'm reminded of the phrase [amateurs talk strategy, experts talk logistics](https://tomcritchlow.com/2018/06/01/how-to-get-things-done/) here.
+[^logistics]: I'm reminded of the phrase [amateurs talk strategy, experts talk logistics](https://sepiabrown.github.io/2018/06/01/how-to-get-things-done/) here.
 
 ```Example: let’s return to that Wirecutter example to see how the idea of “growing organic traffic” translates into a co-created strategy for “experimenting with review pages”. So how? With what resource? Here the idea of interrupting routines is useful. Once you clearly understand how the workflow of research -> planning - > publishing works at a company like The Wirecutter you would be able to identify parts of the research & planning routines that can be interrupted with new data or new insights to enable the teams to look at publishing review pages when the opportunities emerges from the data.```
 
@@ -225,4 +225,4 @@ As I reflect back on the most effective consulting engagements I've worked on it
 
 And the output? Usually the most ordinary of strategies that simply make deliberate movement towards important new capacities.
 
-Up next in the *Yes! And…* series we look at a new skill consultants need to learn: [status switching](https://tomcritchlow.com/2020/06/24/navigating-power-status/).
+Up next in the *Yes! And…* series we look at a new skill consultants need to learn: [status switching](https://sepiabrown.github.io/2020/06/24/navigating-power-status/).

@@ -7,7 +7,7 @@ subtitle: What it is and why now
 
 Thinking about the 2x2
 
-https://twitter.com/tomcritchlow/status/1171485768524554247
+https://twitter.com/sepiabrown/status/1171485768524554247
 
 
 What is the inverse of this article?

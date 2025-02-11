@@ -10,4 +10,4 @@ Why people quit - it's compound effects.
 
 The value of weak ties.
 
-https://tomcritchlow.com/2015/09/03/nycblogclub/
+https://sepiabrown.github.io/2015/09/03/nycblogclub/

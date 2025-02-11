@@ -132,8 +132,8 @@ function loadSearch() {
 
     // I think I should be able to merge site search and microblog search here
     // https://techtutorialsx.com/2020/09/06/javascript-merge-json-objects/
-    // https://notes.tomcritchlow.com/archive/index.json
-    // https://tomcritchlow.com/index.json
+    // https://notes.sepiabrown.github.io/archive/index.json
+    // https://sepiabrown.github.io/index.json
     // reformat my own index file to match microblog and then merge files then search across them
 
     var options = { // fuse.js options; check fuse.js website for details

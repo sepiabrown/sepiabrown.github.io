@@ -111,7 +111,7 @@ This exponential scale might be useful. But perhaps all that's needed is a simpl
 
 Ok, I'll wrap up here. What am I missing? What frameworks, processes and metrics do you use to measure content quality in your content organization?
 
-(Aside as a closing note: this is all related to [branding in the age of content](http://tomcritchlow.com/2017/06/27/branding-in-the-age-of-content/) - how we monitor, shape and think about perception and "brand" for companies that produce content at scale... Definitely more to unpack here.)
+(Aside as a closing note: this is all related to [branding in the age of content](http://sepiabrown.github.io/2017/06/27/branding-in-the-age-of-content/) - how we monitor, shape and think about perception and "brand" for companies that produce content at scale... Definitely more to unpack here.)
 
 --
 

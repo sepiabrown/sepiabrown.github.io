@@ -3,14 +3,14 @@ layout: blog-sidebar-nav
 title: Annotations
 ---
 
-*I use Hypothesis to annotate and bookmark websites. You can see my profile here: [@tomcritchlow](https://hypothes.is/users/tomcritchlow)*
+*I use Hypothesis to annotate and bookmark websites. You can see my profile here: [@sepiabrown](https://hypothes.is/users/sepiabrown)*
 
 <div id="annotations"></div>
 
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 <script>
-fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
+fetch("https://api.hypothes.is/api/search?user=sepiabrown")
   .then((response) => {
     return response.json();
   })
@@ -43,7 +43,7 @@ fetch("https://api.hypothes.is/api/search?user=tomcritchlow")
         </div>       
         </div>    
         </div>
-        <div class="flex items-center"><img class="h2 mr2 br-100" src="https://tomcritchlow.com/images/tomsquare.jpeg" > <p class="bg-moon-gray pa3 br4">${data.rows[i].text}</p></div>
+        <div class="flex items-center"><img class="h2 mr2 br-100" src="https://sepiabrown.github.io/images/tomsquare.jpeg" > <p class="bg-moon-gray pa3 br4">${data.rows[i].text}</p></div>
         </div>
       `
       document.getElementById("annotations").appendChild(div);  

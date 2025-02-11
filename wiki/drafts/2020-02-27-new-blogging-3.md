@@ -64,7 +64,7 @@ The trick to all of this is re-useable components. We need a better marketplace 
 
 https://subpixel.space/entries/open-transclude/
 
-https://tomcritchlow.com/2018/09/06/how-to-amp-stories/
+https://sepiabrown.github.io/2018/09/06/how-to-amp-stories/
 
 There's hope here - because installing a WP plugin is too heavy and risky for a simple in-line element. But Gatsby and Jekyll both handle this gracefully and easily with something that is more like copy and pasting than installing.
 
@@ -84,7 +84,7 @@ Hypothesis is great but suffers from poor UX and lack of resources - and their f
 
 ## Freeform spaces
 
-https://twitter.com/tomcritchlow/status/1199797483553079298
+https://twitter.com/sepiabrown/status/1199797483553079298
 
 ## Small-b Blogging
 

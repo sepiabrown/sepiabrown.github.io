@@ -2,7 +2,7 @@
 title: "the-connection-between"
 date_saved: 2022-03-31
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/03/31/the-connection-between.html"
+link: "http://sepiabrown.micro.blog/2022/03/31/the-connection-between.html"
 ---
 The connection between walking and attention....
 

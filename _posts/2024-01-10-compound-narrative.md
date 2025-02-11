@@ -4,7 +4,7 @@ subtitle: The narratives that nourish and sustain you as an independent consulta
 layout: tsi-chapter
 tags: strategy
 topics: indie-consulting
-og: https://tomcritchlow.com/images/compound-narrative-og.png
+og: https://sepiabrown.github.io/images/compound-narrative-og.png
 ---
 
 > *“I read in a book once that a rose by any other name would smell as sweet, but I've never been able to believe it. I don't believe a rose WOULD be as nice if it was called a thistle or a skunk cabbage.” ― L.M. Montgomery, Anne of Green Gables*
@@ -17,7 +17,7 @@ But when you step out on your own….
 
 ![](/images/2024-01-09-14-38-55.png)
 
-LinkedIn doesn’t know what to do with you. Freelance strategy consultant employed by tomcritchlow.com…? Sure I guess?
+LinkedIn doesn’t know what to do with you. Freelance strategy consultant employed by sepiabrown.github.io…? Sure I guess?
 
 You might think this is a surface level problem - haha ok so LinkedIn doesn’t know how to deal with me. No biggie - LinkedIn is garbage anyway right.
 

@@ -4,7 +4,7 @@ subtitle: Buggy af for me...
 layout: blog
 ---
 
-Yesterday we launched [quotebacks](https://tomcritchlow.com/2020/06/09/quotebacks/) and I had a bunch of people suggesting that we integrate the scrolltotextfragment protocol to make the links point to the correct part of the page.
+Yesterday we launched [quotebacks](https://sepiabrown.github.io/2020/06/09/quotebacks/) and I had a bunch of people suggesting that we integrate the scrolltotextfragment protocol to make the links point to the correct part of the page.
 
 Great in theory!
 
@@ -34,12 +34,12 @@ And some URLs always fail - while others work sporadically (wtf!).
 
 Here's some examples:
 
-<a taget="_blank" href="https://tomcritchlow.com/2020/06/09/quotebacks/#:~:text=a%20small%20tool%20called">This one doesn't work for me</a>
+<a taget="_blank" href="https://sepiabrown.github.io/2020/06/09/quotebacks/#:~:text=a%20small%20tool%20called">This one doesn't work for me</a>
 
-<a taget="_blank" href="https://tomcritchlow.com/2020/06/09/quotebacks/#:~:text=a%20small">This one works for me</a>
+<a taget="_blank" href="https://sepiabrown.github.io/2020/06/09/quotebacks/#:~:text=a%20small">This one works for me</a>
 
 Do they work for you?
 
 [Grab the bookmarklet from over here](https://supple.com.au/tools/scroll-to-text-fragment-generator-bookmarklet/#:~:text=Prefer%20a%20bookmarklet%20to%20generate%20your%20Scroll%20To%20Text%20Fragment%20links%20we%20got%20you%20covered.%20Just%20drag%20and%20drop%20the%20Scroll%20To%20Text%20Fragment%20button%2C%20to%20the%20browser%E2%80%99s%20bookmark%20bar.) to play around and generate your own.
 
-Can anyone shine light on what's going on? Comments welcome below or on [Twitter](https://twitter.com/tomcritchlow).
+Can anyone shine light on what's going on? Comments welcome below or on [Twitter](https://twitter.com/sepiabrown).

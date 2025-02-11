@@ -2,7 +2,7 @@
 title: "the-future-and"
 date_saved: 2022-02-01
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/02/01/the-future-and.html"
+link: "http://sepiabrown.micro.blog/2022/02/01/the-future-and.html"
 ---
 I love this meditation and exploration on web-books:
 

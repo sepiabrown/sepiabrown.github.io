@@ -18,7 +18,7 @@ So I'm putting out a rallying cry - let's start a [#BandcampBloggingBandwagon](h
 
 This directly helps folks discover great Bandcamp music so they can spend their money and support indie artists in this time of need.
 
-It's that simple. Leave a comment below or tag me on twitter [@tomcritchlow](https://twitter.com/tomcritchlow) and I'll do my best to keep track of all the reccs as they come in.
+It's that simple. Leave a comment below or tag me on twitter [@sepiabrown](https://twitter.com/sepiabrown) and I'll do my best to keep track of all the reccs as they come in.
 
 Indie Blogging + Indie music + Community support.
 

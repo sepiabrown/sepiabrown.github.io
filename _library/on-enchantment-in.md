@@ -2,7 +2,7 @@
 title: "on-enchantment-in"
 date_saved: 2022-01-12
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/01/12/on-enchantment-in.html"
+link: "http://sepiabrown.micro.blog/2022/01/12/on-enchantment-in.html"
 ---
 <blockquote class="quoteback" darkmode="" data-title="On%20Enchantment%20in%20Modernity%20%7C%20simpolism" data-author="@standardnotes" cite="https://listed.to/@simpolism/29307/on-enchantment-in-modernity">
 <p>I would like to tackle the term "enchantment" head-on, expand its definition, and provide a sense of where it exists in modern life without relying on these historical forms or terminology.</p>

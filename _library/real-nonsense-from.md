@@ -2,7 +2,7 @@
 title: "real-nonsense-from"
 date_saved: 2022-02-09
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/02/09/real-nonsense-from.html"
+link: "http://sepiabrown.micro.blog/2022/02/09/real-nonsense-from.html"
 ---
 "Real nonsense"
 

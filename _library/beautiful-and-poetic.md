@@ -2,7 +2,7 @@
 title: "beautiful-and-poetic"
 date_saved: 2022-06-23
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/06/23/beautiful-and-poetic.html"
+link: "http://sepiabrown.micro.blog/2022/06/23/beautiful-and-poetic.html"
 ---
 Beautiful and poetic:
 

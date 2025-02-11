@@ -2,7 +2,7 @@
 title: "what-a-lovely"
 date_saved: 2022-04-29
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/04/29/what-a-lovely.html"
+link: "http://sepiabrown.micro.blog/2022/04/29/what-a-lovely.html"
 ---
 What a lovely meditation on spreadsheets:
 

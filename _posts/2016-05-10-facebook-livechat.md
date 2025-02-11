@@ -18,11 +18,11 @@ I had a few people asking how I did it so I wanted to share the code. It's nothi
 
 Here's the HTML code on every page of the site: 
 
-<script src="https://gist.github.com/tomcritchlow/493774b09b02e31d1184d7cda926c659.js"></script>
+<script src="https://gist.github.com/sepiabrown/493774b09b02e31d1184d7cda926c659.js"></script>
 
 And the accompanying CSS:
 
-<script src="https://gist.github.com/tomcritchlow/ec36371f80ceaa1fab73f7d1db539f7e.js"></script>
+<script src="https://gist.github.com/sepiabrown/ec36371f80ceaa1fab73f7d1db539f7e.js"></script>
 
 I'm excited to play in this space - clearly the experience is subpar for those users who don't have a Facebook account or even just aren't logged in but that's a sacrifice I'm willing to make for now. I think Facebook will build out more robust tools for businesses that want to use messenger as a tool for customer interaction.
 

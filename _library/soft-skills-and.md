@@ -2,7 +2,7 @@
 title: "soft-skills-and"
 date_saved: 2022-01-07
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/01/07/soft-skills-and.html"
+link: "http://sepiabrown.micro.blog/2022/01/07/soft-skills-and.html"
 ---
 "Soft skills" and power inside organizations. Two great reads:
 

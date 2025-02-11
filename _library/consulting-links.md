@@ -21,7 +21,7 @@ date_saved: 2025-01-07
 
 [Venkatesh Rao on Q lab](http://us1.campaign-archive1.com/?u=78cbbb7f2882629a5157fa593&id=b17b3b5049&e=1ef561aa73) - Venkatesh's new slack only! consulting project. Given my advocacy to getting into clients slack groups you can see why this resonated with me.
 
-[The Fieldguide to Independent Consulting](http://tomcritchlow.com/2016/12/14/fieldguide-independent-consulting/) - ok, I'm gonna sneak one of my own links in here but if you enjoyed this post you should read this little thought-starter around independent consulting.
+[The Fieldguide to Independent Consulting](http://sepiabrown.github.io/2016/12/14/fieldguide-independent-consulting/) - ok, I'm gonna sneak one of my own links in here but if you enjoyed this post you should read this little thought-starter around independent consulting.
 
 --
 

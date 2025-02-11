@@ -2,7 +2,7 @@
 title: Electric Tables V0.1
 subtitle: Experimenting with personal databases and the web as a texture
 layout: blog
-og: https://tomcritchlow.com/images/ee-og.png
+og: https://sepiabrown.github.io/images/ee-og.png
 topics: digital-bricolage
 ---
 
@@ -28,7 +28,7 @@ It works by using a bookmarklet and local storage. So there's no login and no da
 
 Simply click it on a page you want to save and you'll see something like this:
 
-![](/images/electrictables-tomcritchlow.png)
+![](/images/electrictables-sepiabrown.png)
 
 Notice how it automatically extracts basic information like title and image? Neat. When we try it on a Target page for example notice how it grabs the price and review score automatically?
 
@@ -73,7 +73,7 @@ In addition to this (for power users only!) there's an options page where you ca
 
 These are rules that map domain filters to custom extractors. This is useful because data extraction is always going to be fragile. Web pages change. Some pages (e.g. Amazon) are actively hostile to data extraction. And the web is vast and weird. I want Electric Tables to be a general purpose tool. This options page provides a quick and easy-ish way to write your own custom extractors on a domain by domain basis...
 
-Maybe in the future you could imagine sharing / uploading custom extraction lists. Kind of like an [open scraping database](https://tomcritchlow.com/2021/03/29/open-scraping-database/)!
+Maybe in the future you could imagine sharing / uploading custom extraction lists. Kind of like an [open scraping database](https://sepiabrown.github.io/2021/03/29/open-scraping-database/)!
 
 ## What Electric Tables Could Be
 
@@ -126,8 +126,8 @@ Do you have ideas for where this could go?
 
 Drop me a note - I'd love to hear your ideas and feedback.
 
-[@tomcritchlow](https://twitter.com/tomcritchlow) (DMs open) or tjcritchlow@gmail.com
+[@sepiabrown](https://twitter.com/sepiabrown) (DMs open) or tjcritchlow@gmail.com
 
 --
 
-*Update #1:* If you liked this post, check out my next prototype [Electric Tables V0.2](https://tomcritchlow.com/2022/02/07/electric-tables-v2/)
+*Update #1:* If you liked this post, check out my next prototype [Electric Tables V0.2](https://sepiabrown.github.io/2022/02/07/electric-tables-v2/)

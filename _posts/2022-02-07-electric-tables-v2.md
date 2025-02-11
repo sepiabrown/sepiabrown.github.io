@@ -2,7 +2,7 @@
 title: Electric Tables V0.2
 subtitle: From the web to spreadsheets and back again
 layout: blog
-og: https://tomcritchlow.com/images/ee-og-2.png
+og: https://sepiabrown.github.io/images/ee-og-2.png
 topics: digital-bricolage
 ---
 
@@ -46,7 +46,7 @@ This opens up a bunch of interesting possibilities I think around collaborative 
 
 Under the hood I'm using a [Google Script](https://script.google.com/) - you can publish it to the web as a macro with a unique URL. Posting to the URL triggers a little cloud function that then crawls the URL, extracts the info and adds it to your spreadhseet.
 
-[All the code is here in this Gist](https://gist.github.com/tomcritchlow/cbb06a9298fb6cc0804372552fda1f96)
+[All the code is here in this Gist](https://gist.github.com/sepiabrown/cbb06a9298fb6cc0804372552fda1f96)
 
 Because it's using the Google Script as an endpoint you can use this on mobile too with a simple mobile-optimized page with a form. Just enter the URL and hit submit and it posts the URL to the script. Much easier on mobile than a bookmarklet...
 

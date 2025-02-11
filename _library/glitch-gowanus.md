@@ -4,7 +4,7 @@ tags: [glitch-gowanus, wiki]
 date_saved: 2025-01-07
 ---
 
-I'm planning and building a new walkable sci-fi story called [Glitch Gowanus](https://tomcritchlow.com/glitchgowanus/). It's based on a geo-caching walking treasure hunt experience I built for my fiancee to propose to her.
+I'm planning and building a new walkable sci-fi story called [Glitch Gowanus](https://sepiabrown.github.io/glitchgowanus/). It's based on a geo-caching walking treasure hunt experience I built for my fiancee to propose to her.
 
 There are a lot of details to work out but I'm excited to experiment with it.
 

@@ -17,7 +17,7 @@ pages:
    middle: <h2>What 🔥</h2>
    background: https://media.giphy.com/media/11OGRpGUmFXiIo/giphy.gif
    cta:
-      link: https://tomcritchlow.com
+      link: https://sepiabrown.github.io
       text: this is a cta!
  - page-number: 3
    layout: thirds

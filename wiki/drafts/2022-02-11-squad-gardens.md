@@ -17,7 +17,7 @@ https://medium.com/levelshealth/why-levels-is-building-in-public-2ece2b9aee4a
 
 https://www.variance.com/posts/docs-as-marketing
 https://julian.digital/2020/11/20/chief-notion-officer/?utm_source=pocket_mylist
-https://tomcritchlow.com/2020/07/23/thinking-in-public/
+https://sepiabrown.github.io/2020/07/23/thinking-in-public/
 
 Wither Squad Publishing?
 

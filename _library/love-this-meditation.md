@@ -2,7 +2,7 @@
 title: "love-this-meditation"
 date_saved: 2022-02-10
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/02/10/love-this-meditation.html"
+link: "http://sepiabrown.micro.blog/2022/02/10/love-this-meditation.html"
 ---
 Love this meditation on note taking and expertise in ill-structured domains...
 

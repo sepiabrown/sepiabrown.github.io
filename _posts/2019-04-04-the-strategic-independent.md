@@ -38,7 +38,7 @@ Even before I start working with a client in the very first meeting I always mak
 
 The more you understand an organization the better you can understand context[^wayseeing].
 
-[^wayseeing]: I wrote a whole post called [ways of seeing](https://tomcritchlow.com/2018/10/29/ways-of-seeing/) that explores ideas around sensemaking inside an organization
+[^wayseeing]: I wrote a whole post called [ways of seeing](https://sepiabrown.github.io/2018/10/29/ways-of-seeing/) that explores ideas around sensemaking inside an organization
 
 ## Overlapping contexts
 
@@ -293,7 +293,7 @@ When I first started consulting in 2014, yes I worked mostly on SEO projects. Bu
 
 Over time - by asking questions and pushing for more context I was able to start to get involved in several different wider context-circles and evolve the work I do[^mediadesign].
 
-[^mediadesign]: One consequence of this of course has been a difficulty in describing the work I do. For more thoughts on describing and defining my work see my post on [media design](https://tomcritchlow.com/2018/07/25/media-design/).
+[^mediadesign]: One consequence of this of course has been a difficulty in describing the work I do. For more thoughts on describing and defining my work see my post on [media design](https://sepiabrown.github.io/2018/07/25/media-design/).
 
 ## How to learn to be more strategic
 
@@ -332,7 +332,7 @@ Frank Chimero wrote a wonderful essay I think about often titled [the inferno of
 
 Co-dependence and network building has plenty of other benefits[^strange] but one key benefit of a diverse network is the adjacent-context. **Some of the most helpful context you bring to your clients as an independent is the context they would otherwise not have access to or overlook**.
 
-[^strange]: I wrote about using a network to build a steady stream of high value leads in my post [strange attraction](https://tomcritchlow.com/2019/03/12/strange-attraction/)
+[^strange]: I wrote about using a network to build a steady stream of high value leads in my post [strange attraction](https://sepiabrown.github.io/2019/03/12/strange-attraction/)
 
 Adjacent context is thinking laterally about an industry, organization or problem - looking sideways for unusual or unexpected analogies or insights into expanding contexts that might not be obvious to you or your clients. You can only get this from hanging around a blend of interesting people who are also context-aware.
 
@@ -352,7 +352,7 @@ Hopefully this long post was helpful - let's recap the main points:
 
 I'm writing a book. Originally it was designed for "independent consultants" and... that's still an audience. But I realized writing this post that the audience is wider - I'm writing not just for those doing "consulting" or even "strategy work" but also designers, writers, researchers, leaders who are doing **strategic work, independently - the strategic independent**.
 
-To peek [the outline for the book head over here](https://tomcritchlow.com/strategy/), and you can [subscribe to my newsletter here](https://tinyletter.com/tomcritchlow) to keep updated with the latest.
+To peek [the outline for the book head over here](https://sepiabrown.github.io/strategy/), and you can [subscribe to my newsletter here](https://tinyletter.com/sepiabrown) to keep updated with the latest.
 
 I'd love to hear your experience with strategic work, independence and context. Leave me some comments below!
 

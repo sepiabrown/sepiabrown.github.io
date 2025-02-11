@@ -6,7 +6,7 @@ subtitle: A meditation on corporate frustration & autonomy
 
 I'm kind of obsessed with how to get buy-in for your ideas.
 
-- Exhibit A: My [book on independent consulting](https://tomcritchlow.com/strategy/)
+- Exhibit A: My [book on independent consulting](https://sepiabrown.github.io/strategy/)
 - Exhibit B: My [SEO MBA online course in executive communication](https://seomba.com/executive-presence/)
 
 I worked at Google between 2012-2014, first at the Google Creative Lab and then as part of an internal innovation team that would eventually build Google Jamboard. I thought it would be fun to dust off some of my old ideas and figure out why they never went anywhere.

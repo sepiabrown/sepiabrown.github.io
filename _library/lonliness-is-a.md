@@ -2,7 +2,7 @@
 title: "lonliness-is-a"
 date_saved: 2022-04-25
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/04/25/lonliness-is-a.html"
+link: "http://sepiabrown.micro.blog/2022/04/25/lonliness-is-a.html"
 ---
 Lonliness is a real threat.
 

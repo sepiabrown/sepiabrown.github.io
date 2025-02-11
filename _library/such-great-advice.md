@@ -2,7 +2,7 @@
 title: "such-great-advice"
 date_saved: 2022-03-21
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/03/21/such-great-advice.html"
+link: "http://sepiabrown.micro.blog/2022/03/21/such-great-advice.html"
 ---
 Such great advice in this piece:
 

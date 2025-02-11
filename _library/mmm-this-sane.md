@@ -2,7 +2,7 @@
 title: "mmm-this-sane"
 date_saved: 2022-04-14
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/04/14/mmm-this-sane.html"
+link: "http://sepiabrown.micro.blog/2022/04/14/mmm-this-sane.html"
 ---
 Mmm. This Sane app looks pretty interesting. Graph/table/grid view of a set of texts. Has hints of a syllabus? Hints of arena? Hints of Electric Tables? Something interesting emerging here
 

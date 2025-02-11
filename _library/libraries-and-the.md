@@ -2,7 +2,7 @@
 title: "libraries-and-the"
 date_saved: 2022-04-27
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/04/27/libraries-and-the.html"
+link: "http://sepiabrown.micro.blog/2022/04/27/libraries-and-the.html"
 ---
 Thinking about the role of libraries in the future of social media...
 

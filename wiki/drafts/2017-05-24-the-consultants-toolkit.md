@@ -35,7 +35,7 @@ The modern web is such a remixable medium that I urge you to think how you can b
 There are a million different tools to generate mockups and prototypes (which is the beauty!) but my goto tools are:
 
 - Chrome's inspect element for small changes and tweaks (protip you can take mobile mockups this way too using the device switcher, and even add a device frame to the screenshot too)
-- Google slides for mockups and more design-focused work. [Read more about how I do that here](https://medium.com/@tomcritchlow/how-to-use-google-slides-as-a-free-cloud-hosted-illustrator-replacement-f472e6c3a881).
+- Google slides for mockups and more design-focused work. [Read more about how I do that here](https://medium.com/@sepiabrown/how-to-use-google-slides-as-a-free-cloud-hosted-illustrator-replacement-f472e6c3a881).
 - [Glitch](https://glitch.com/) for functioning prototypes and 
 
 This approach will help you get closer to producing recommendations and ideas that resemble the finished product, that's a good thing. But it still doesn't answer the central question - who are we trying to convince, and what objections do they have?

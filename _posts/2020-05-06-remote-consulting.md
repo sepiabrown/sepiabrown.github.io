@@ -17,7 +17,7 @@ I'm going to walk through them and see if we can find solutions together...
 
 ## 1. Lack of Business Context
 
-I talked in my post [the strategic independent](https://tomcritchlow.com/2019/04/04/the-strategic-independent/) about how being strategic is fundamentally about understanding the **overlapping contexts** that your work sits in:
+I talked in my post [the strategic independent](https://sepiabrown.github.io/2019/04/04/the-strategic-independent/) about how being strategic is fundamentally about understanding the **overlapping contexts** that your work sits in:
 
 
 <link rel="stylesheet" href="https://files-lovat-six.now.sh/quote.css" type="text/css">
@@ -25,22 +25,22 @@ I talked in my post [the strategic independent](https://tomcritchlow.com/2019/04
 
 <div id="portal-parent-519256" class="portal-parent-519256">
 <div class="portal-content-519256">So when I talk about strategic work - it’s about trying to understand the concentric circles of context at any time. For example - if you’re designing an app for a company the app might sit within a variety of business contexts:
-<img src="https://tomcritchlow.com/images/context1.png">
+<img src="https://sepiabrown.github.io/images/context1.png">
 <br>However, in addition to the above context - that app design project might also exist within a variety of people contexts:
-<img src="https://tomcritchlow.com/images/context2.png">
+<img src="https://sepiabrown.github.io/images/context2.png">
 </div>       
 </div>
 
 <div class="portal-head-519256">       
-<div class="portal-avatar-519256"><img class="mini-favicon-519256" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://tomcritchlow.com/2019/04/04/the-strategic-independent/"></div>     
+<div class="portal-avatar-519256"><img class="mini-favicon-519256" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://sepiabrown.github.io/2019/04/04/the-strategic-independent/"></div>     
 <div class="portal-metadata-519256">
 <div class="portal-title-519256">
-<div class="portal-author-519256">@tomcritchlow</div>
+<div class="portal-author-519256">@sepiabrown</div>
 <div class="title-wrapper-519256">The Strategic Independent</div>
 </div> 
 </div>
 
-<div class="portal-backlink-519256"><a target="_blank" href="https://tomcritchlow.com/2019/04/04/the-strategic-independent/" class="portal-arrow-519256">Go to text <span class="right-arrow">→</span></a></div>
+<div class="portal-backlink-519256"><a target="_blank" href="https://sepiabrown.github.io/2019/04/04/the-strategic-independent/" class="portal-arrow-519256">Go to text <span class="right-arrow">→</span></a></div>
 </div>  
 
 </div>
@@ -63,7 +63,7 @@ Lacking business context is one thing - but lacking people context is another. W
 
 I often find myself being surprisingly effective as a consultant prioritizing my work around the just-in-time priorities of my point of contact rather than adhering strictly to a pre-defined project roadmap. This allows for a more agile approach (an approach often not available to regular employees!). But this improv-thinking and improv-working relies on the in-between people context.
 
-I wrote before about the way that consultants operate at a [serendipity deficit](https://tomcritchlow.com/2019/11/18/yes-and/#the-serendipity-deficit-of-consultants--manufacturing-improv-sessions):
+I wrote before about the way that consultants operate at a [serendipity deficit](https://sepiabrown.github.io/2019/11/18/yes-and/#the-serendipity-deficit-of-consultants--manufacturing-improv-sessions):
 
 
 <link rel="stylesheet" href="https://files-lovat-six.now.sh/quote.css" type="text/css">
@@ -74,15 +74,15 @@ I wrote before about the way that consultants operate at a [serendipity deficit]
 </div>
 
 <div class="portal-head-519256">       
-<div class="portal-avatar-519256"><img class="mini-favicon-519256" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://tomcritchlow.com/2019/11/18/yes-and/#the-serendipity-deficit-of-consultants--manufacturing-improv-sessions"></div>     
+<div class="portal-avatar-519256"><img class="mini-favicon-519256" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://sepiabrown.github.io/2019/11/18/yes-and/#the-serendipity-deficit-of-consultants--manufacturing-improv-sessions"></div>     
 <div class="portal-metadata-519256">
 <div class="portal-title-519256">
-<div class="portal-author-519256">@tomcritchlow</div>
+<div class="portal-author-519256">@sepiabrown</div>
 <div class="title-wrapper-519256">Yes! and...</div>
 </div> 
 </div>
 
-<div class="portal-backlink-519256"><a target="_blank" href="https://tomcritchlow.com/2019/11/18/yes-and/#the-serendipity-deficit-of-consultants--manufacturing-improv-sessions" class="portal-arrow-519256">Go to text <span class="right-arrow">→</span></a></div>
+<div class="portal-backlink-519256"><a target="_blank" href="https://sepiabrown.github.io/2019/11/18/yes-and/#the-serendipity-deficit-of-consultants--manufacturing-improv-sessions" class="portal-arrow-519256">Go to text <span class="right-arrow">→</span></a></div>
 </div>  
 
 </div>
@@ -97,15 +97,15 @@ And I've written before about the idea of missed feedback due to over-polishing 
 </div>
 
 <div class="portal-head-519256">       
-<div class="portal-avatar-519256"><img class="mini-favicon-519256" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://tomcritchlow.com/2019/11/18/yes-and/"></div>     
+<div class="portal-avatar-519256"><img class="mini-favicon-519256" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://sepiabrown.github.io/2019/11/18/yes-and/"></div>     
 <div class="portal-metadata-519256">
 <div class="portal-title-519256">
-<div class="portal-author-519256">@tomcritchlow</div>
+<div class="portal-author-519256">@sepiabrown</div>
 <div class="title-wrapper-519256">Yes! and...</div>
 </div> 
 </div>
 
-<div class="portal-backlink-519256"><a target="_blank" href="https://tomcritchlow.com/2019/11/18/yes-and/" class="portal-arrow-519256">Go to text <span class="right-arrow">→</span></a></div>
+<div class="portal-backlink-519256"><a target="_blank" href="https://sepiabrown.github.io/2019/11/18/yes-and/" class="portal-arrow-519256">Go to text <span class="right-arrow">→</span></a></div>
 </div>  
 
 </div>

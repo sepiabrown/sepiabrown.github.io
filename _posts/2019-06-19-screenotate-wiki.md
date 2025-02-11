@@ -7,7 +7,7 @@ blogchain: digital-gardens
 
 Back in February of this year I realized that this blog could be more than a blog - that by virtue of being a static site I can maintain a local files+folders structure and use that to publish my own personal wiki to the web.
 
-More on all of that in the original post here: [building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/).
+More on all of that in the original post here: [building a digital garden](https://sepiabrown.github.io/2019/02/17/building-digital-garden/).
 
 Then a few weeks ago I came across [Screenotate](https://screenotate.com/). It's a dead simple mac app that saves all your screenshots as web-pages on your computer with URL of the page saved, meta-data and OCR-text of the screenshot. See it in action here:
 
@@ -20,9 +20,9 @@ And so that's what I did.
 
 For an example - take a look at this Pedagogy wiki I just started building:
 
-[/wiki/pedagogy](https://tomcritchlow.com/wiki/pedagogy/)
+[/wiki/pedagogy](https://sepiabrown.github.io/wiki/pedagogy/)
 
-And for the lazy, here's a [direct link to a screenshot HTML file saved by Screenotate](https://tomcritchlow.com/wiki/pedagogy/Screenshot%202019-06-13%20at%202.08.13%20PM.html).
+And for the lazy, here's a [direct link to a screenshot HTML file saved by Screenotate](https://sepiabrown.github.io/wiki/pedagogy/Screenshot%202019-06-13%20at%202.08.13%20PM.html).
 
 It's become my default mode for capturing snippets and shoving them into my wiki. Nice.
 

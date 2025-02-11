@@ -15,7 +15,7 @@ Some personal wikis and sites that I've been inspired by:
 
 [derek sivers' daily journal](https://sivers.org/dj) - a post from Derek Sivers on how to keep a text-file long-term store for your ideas and notes.
 
-And there's lots more too - [this twitter thread](https://twitter.com/tomcritchlow/status/1083823277712248832) has a whole bunch of interesting rabbit holes.
+And there's lots more too - [this twitter thread](https://twitter.com/sepiabrown/status/1083823277712248832) has a whole bunch of interesting rabbit holes.
 
 <http://gordonbrander.com/pattern/>
 

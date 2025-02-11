@@ -2,7 +2,7 @@
 title: "yass-the-point"
 date_saved: 2021-12-17
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2021/12/17/yass-the-point.html"
+link: "http://sepiabrown.micro.blog/2021/12/17/yass-the-point.html"
 ---
 Yass
 

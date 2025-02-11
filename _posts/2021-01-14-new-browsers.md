@@ -39,7 +39,7 @@ Here's my pitch: build a browser that comes pre-installed with node.js, an IDE a
 
 ## Defaults Matter
 
-Why is this important? Because defaults matter. Defaults allow people to get started. Python is installed by default on the mac and so I've found it very easy to do some lightweight Python coding (e.g. [some glitch art](https://tomcritchlow.com/2017/11/07/privacy-glitch/))
+Why is this important? Because defaults matter. Defaults allow people to get started. Python is installed by default on the mac and so I've found it very easy to do some lightweight Python coding (e.g. [some glitch art](https://sepiabrown.github.io/2017/11/07/privacy-glitch/))
 
 *Can you imagine if Node.js was installed by default?*
 

@@ -168,7 +168,7 @@ img{max-width:100%}
         <h1 class="posttitle" id="section{{chapterindex}}chapter{{forloop.index}}">{{chapter.title}}</h1>
         <h2 class="postsubtitle">{{chapter.subtitle}}</h2>  
 
-        {% assign tempurl = chapter.url | remove:"https://tomcritchlow.com" %}
+        {% assign tempurl = chapter.url | remove:"https://sepiabrown.github.io" %}
 
         {% assign post = site.posts | where:"url", tempurl  | first %}
         <div class="post-content">

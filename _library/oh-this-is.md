@@ -2,7 +2,7 @@
 title: "oh-this-is"
 date_saved: 2022-03-02
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/03/02/oh-this-is.html"
+link: "http://sepiabrown.micro.blog/2022/03/02/oh-this-is.html"
 ---
 Oh! This is a magical website. Collection of essays that auto-compiles to a print on demand book. Very relevant to my interests:
 

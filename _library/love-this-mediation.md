@@ -2,7 +2,7 @@
 title: "love-this-mediation"
 date_saved: 2022-02-28
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/02/28/love-this-mediation.html"
+link: "http://sepiabrown.micro.blog/2022/02/28/love-this-mediation.html"
 ---
 Love this mediation on maps, mapping and managing complexity in projects from Dark Matter Labs:
 

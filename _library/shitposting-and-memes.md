@@ -2,7 +2,7 @@
 title: "shitposting-and-memes"
 date_saved: 2022-04-05
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/04/05/shitposting-and-memes.html"
+link: "http://sepiabrown.micro.blog/2022/04/05/shitposting-and-memes.html"
 ---
 Shitposting and memes as essential digital infrastructure. Very interested in Jonathan's new startup Antimatter that creates learning experiences through memes...
 

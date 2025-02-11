@@ -2,7 +2,7 @@
 title: How do You Cultivate Customer-Centric Executives?
 subtitle: Thinking about deep perspective change in executives
 layout: blog
-og: https://tomcritchlow.com/images/customer-centric-og.png
+og: https://sepiabrown.github.io/images/customer-centric-og.png
 ---
 
 <div class="ba b--black-10 bg-newgreen-light br2 pa3 f5">
@@ -99,7 +99,7 @@ For executives that have lived through this transition it can be hard to properl
 
 ## Maybe Maps Help?
 
-Here's a thought - I've been [playing around with wardly maps recently](https://tomcritchlow.com/2024/02/09/remarkable-notes/) and one thing that strikes me is that they might be a useful tool to get more nuanced about customer-centric projects.
+Here's a thought - I've been [playing around with wardly maps recently](https://sepiabrown.github.io/2024/02/09/remarkable-notes/) and one thing that strikes me is that they might be a useful tool to get more nuanced about customer-centric projects.
 
 My hunch: customer-centric thinking (and executive leadership) *only* matters for the least commoditized areas. It's these areas that require most sensitivity to customer behaviors *and* that these areas are least likely to have norms and standards to reference in the market.
 

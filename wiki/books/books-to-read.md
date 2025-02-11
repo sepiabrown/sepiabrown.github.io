@@ -50,7 +50,7 @@ Good source of books here: [my years of reading](https://austinkleon.com/categor
 
 --
 
-[Tons of good sci-fi reccs in this thread](https://twitter.com/tomcritchlow/status/1161806203074306051)
+[Tons of good sci-fi reccs in this thread](https://twitter.com/sepiabrown/status/1161806203074306051)
 
 Including:
 

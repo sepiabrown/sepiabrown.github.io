@@ -6,7 +6,7 @@ layout: blog
 
 A personal site, or a blog, is more than just a collection of writing. It's a kind of place - something that feels like home among the streams. Home is a very strong mental model.
 
-I've talked before about [streams, campfires and gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/). But what about digital homes?
+I've talked before about [streams, campfires and gardens](https://sepiabrown.github.io/2018/10/10/of-gardens-and-wikis/). But what about digital homes?
 
 "Home" has a certain kind of emotion. I love Winnie Lim's meditation on a website feeling like home:
 
@@ -58,7 +58,7 @@ Questions are unreasonably powerful. And maybe, just maybe, questions can be the
 <footer>Lydia Paine Hagtvedt, Karyn Dossinger , Spencer H. Harrison , Li Huang<cite> <a href="https://www.researchgate.net/publication/329542696_Curiosity_made_the_cat_more_creative_Specific_curiosity_as_a_driver_of_creativity">https://www.researchgate.net/publication/329542696_Curiosity_made_the_cat_more_creative_Specific_curiosity_as_a_driver_of_creativity</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-I've dabbled with this recently by trying to make sense of what I'm to through the lens of [lines of inquiry](https://tomcritchlow.com/2022/01/06/jan-22-map-inquiry/).
+I've dabbled with this recently by trying to make sense of what I'm to through the lens of [lines of inquiry](https://sepiabrown.github.io/2022/01/06/jan-22-map-inquiry/).
 
 And finally - I found this beautiful personal site from [Emmanuel Quartey](https://www.quartey.com/) where he has structured his writing and site around central [questions](https://www.quartey.com/questions):
 

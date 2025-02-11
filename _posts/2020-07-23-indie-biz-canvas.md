@@ -38,7 +38,7 @@ For my canvas I structured the canvas around 4 "worlds" - and within each theme 
     - Provocation: What common traits can you identify in your clients as humans? What are common traits of your point of contact not just the company?
 - What does my strategy work look like?
     - Provocation: What are the expanded contexts above/adjacent to my strategy work?
-- What does my stewardship work look like? ([More info on strategy/stewardship here](https://tomcritchlow.com/2019/04/04/the-strategic-independent/))
+- What does my stewardship work look like? ([More info on strategy/stewardship here](https://sepiabrown.github.io/2019/04/04/the-strategic-independent/))
     - Provocation: What parts of my strategy work are NOT part of my stewardship work? How might I learn how to do them or partner to provide expanded stewardship?
 
 ## Money World

@@ -4,7 +4,7 @@ subtitle: It only makes sense in hindsight
 layout: blog
 ---
 
-I've been on a maps kick recently writing about [blog maps](https://tomcritchlow.com/2023/04/03/blog-maps/) and [roadmaps](https://tomcritchlow.com/2023/04/18/roadmap-territory/)! Let's talk about career maps...
+I've been on a maps kick recently writing about [blog maps](https://sepiabrown.github.io/2023/04/03/blog-maps/) and [roadmaps](https://sepiabrown.github.io/2023/04/18/roadmap-territory/)! Let's talk about career maps...
 
 Careers only make sense in hindsight. And for indie consultants it's even worse - there are no well trodden paths. You have to kind of make it up as you go.
 

@@ -1,14 +1,14 @@
 ---
 ---
 {% assign bookshelf  = site.pages | where_exp:"item", "item.path contains 'books-read'" | first %}
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:libraryRSS="https://tomcritchlow.com/libraryspec/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:libraryRSS="https://sepiabrown.github.io/libraryspec/">
  <channel>
   <title>Tom's Library</title>
-  <link>https://tomcritchlow.com/wiki/books/books-read/</link>
+  <link>https://sepiabrown.github.io/wiki/books/books-read/</link>
   
-  <libraryRSS:list>https://tomcritchlow.com/wiki/books/books-read/</libraryRSS:list>
-  <libraryRSS:list>https://tomcritchlow.com/wiki/books/stories-about-consultants/</libraryRSS:list>
-  <libraryRSS:list>https://tomcritchlow.com/wiki/books/7bks-maths-books/</libraryRSS:list>
+  <libraryRSS:list>https://sepiabrown.github.io/wiki/books/books-read/</libraryRSS:list>
+  <libraryRSS:list>https://sepiabrown.github.io/wiki/books/stories-about-consultants/</libraryRSS:list>
+  <libraryRSS:list>https://sepiabrown.github.io/wiki/books/7bks-maths-books/</libraryRSS:list>
 
   <libraryRSS:following>https://aworkinglibrary.com/feed/index.xml</libraryRSS:following>
   <libraryRSS:following>https://highlights.melanie-richards.com/</libraryRSS:following>
@@ -29,7 +29,7 @@
     <libraryRSS:id>{{book.link}}</libraryRSS:id>
     <libraryRSS:image>{{book.image}}</libraryRSS:image>
     <libraryRSS:dateFinished>{{book.date_finished}}</libraryRSS:dateFinished>
-    <guid>https://tomcritchlow.com/wiki/books/books-read/</guid>
+    <guid>https://sepiabrown.github.io/wiki/books/books-read/</guid>
    </item>
   {% endfor %}
  </channel>

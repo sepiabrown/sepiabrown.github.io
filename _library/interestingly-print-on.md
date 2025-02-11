@@ -2,7 +2,7 @@
 title: "interestingly-print-on"
 date_saved: 2022-05-05
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/05/05/interestingly-print-on.html"
+link: "http://sepiabrown.micro.blog/2022/05/05/interestingly-print-on.html"
 ---
 Interestingly - print on demand only unlocks the first layer of value creation (more people making books), but there's still PLENTY of room for the second layer of value creation (services on top of POD that make books as a service)...
 

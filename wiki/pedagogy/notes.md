@@ -19,7 +19,7 @@ In-context, edutainment, powerful education and learning moments.
 
 <https://education-trails.glitch.me/> - this is a stupid little prototype I built to show how a "guided learning" UX could look and feel like. I quite quickly abandoned this because I think it's an evolutionary dead end (too forced for one thing). The one idea I did like here is using Chrome local-storage to quickly and easily generate your own "side notes" or space for reflection and notes to self while reading which I think is a great deliberate practice for learning.
 
-[twitter thread here shows my thinking and building process](https://twitter.com/tomcritchlow/status/1139287898933665792)
+[twitter thread here shows my thinking and building process](https://twitter.com/sepiabrown/status/1139287898933665792)
 
 TODO: a prototype similar to the above from the opposite end of the spectrum i.e. entirely self directed instead of forced linear learning. What would that look like?
 

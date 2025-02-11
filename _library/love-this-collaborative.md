@@ -2,7 +2,7 @@
 title: "love-this-collaborative"
 date_saved: 2022-04-19
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/04/19/love-this-collaborative.html"
+link: "http://sepiabrown.micro.blog/2022/04/19/love-this-collaborative.html"
 ---
 Love this collaborative reading experiment! Printed out essays! Spiral designs! Co-reading!
 

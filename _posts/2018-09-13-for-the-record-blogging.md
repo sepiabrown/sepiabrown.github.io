@@ -4,7 +4,7 @@ title: For the record blogging
 subtitle: A sketch of how Mozilla could save us
 ---
 
-The social networks are failing us. Or, at least, we’re realizing we need a “third way”. Not private and not social. Public but intimate. I’ve written a bit more about this philosophy before in my piece [small b blogging](https://tomcritchlow.com/2018/02/23/small-b-blogging/).
+The social networks are failing us. Or, at least, we’re realizing we need a “third way”. Not private and not social. Public but intimate. I’ve written a bit more about this philosophy before in my piece [small b blogging](https://sepiabrown.github.io/2018/02/23/small-b-blogging/).
 
 But starting, hosting and maintaining your own blog is still too hard.
 

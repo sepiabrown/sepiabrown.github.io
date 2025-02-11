@@ -4,7 +4,7 @@ subtitle: Emergent Tokyo and the indie creator web
 layout: blog
 ---
 
-https://twitter.com/tomcritchlow/status/1576644301005545475
+https://twitter.com/sepiabrown/status/1576644301005545475
 
 Creators can get a bad rep.
 

@@ -2,7 +2,7 @@
 title: "whoah-computergenerated-books"
 date_saved: 2022-01-07
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/01/07/whoah-computergenerated-books.html"
+link: "http://sepiabrown.micro.blog/2022/01/07/whoah-computergenerated-books.html"
 ---
 Whoah
 

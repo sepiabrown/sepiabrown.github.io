@@ -17,7 +17,7 @@ We touched on many themes and ideas - initially excited to explore small group c
 
 I was shocked when I actually ran the numbers recently:
 
-<blockquote class="quoteback" darkmode="" data-title="Can Calendly Unbundle NYC?" data-author="tomcritchlow.com" cite="https://tomcritchlow.com/2020/06/26/unbundling-nyc-calendly/">
+<blockquote class="quoteback" darkmode="" data-title="Can Calendly Unbundle NYC?" data-author="sepiabrown.github.io" cite="https://sepiabrown.github.io/2020/06/26/unbundling-nyc-calendly/">
 <p><strong>40% of my consulting revenue has come from Distilled alumni</strong><span>.</span><br></p>
 
 <p>Ok I knew this number was high but that number surprised even me. My brother’s company that I used to work at <a href="https://www.distilled.net/" target="_blank" rel="noopener">Distilled</a>&nbsp;has been a significant source of leads. This is <em>not</em> referrals from Distilled - none of these leads came as “official” referrals from Distilled the agency, but rather introductions from Distilled alumni who have spread far and wide and now lead lots of fascinating work across many different agencies, consulting practices and more.</p>
@@ -25,7 +25,7 @@ I was shocked when I actually ran the numbers recently:
 <p>So, for me Distilled has functioned like an institution. I imagine this is the power people talk about of the kind of network you get doing an MBA etc.</p>
 
 <p>Perhaps there’s something to be learned from building institutions. How might you do that? What would it look like?</p>
-<footer>tomcritchlow.com<cite> <a href="https://tomcritchlow.com/2020/06/26/unbundling-nyc-calendly/">https://tomcritchlow.com/2020/06/26/unbundling-nyc-calendly/</a></cite></footer>
+<footer>sepiabrown.github.io<cite> <a href="https://sepiabrown.github.io/2020/06/26/unbundling-nyc-calendly/">https://sepiabrown.github.io/2020/06/26/unbundling-nyc-calendly/</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 And this was validated via discussions with other indie consultants - alumni networks have been powerful forces for generating client work.
@@ -63,9 +63,9 @@ This dumb example highlights the importance of aligning yourself with people who
 
 Interestingly - indie consultants are hungry for professional development:
 
-<blockquote class="quoteback" darkmode="" data-title="I%2C%20consultant%3F" data-author="@tomcritchlow" cite="https://tomcritchlow.com/2019/02/27/i-consultant/">
+<blockquote class="quoteback" darkmode="" data-title="I%2C%20consultant%3F" data-author="@sepiabrown" cite="https://sepiabrown.github.io/2019/02/27/i-consultant/">
 The thing no one tells you when you set out on your own is that you take on the task of managing your own labels. Inventing terms to describe who you are and what you do.
-<footer>@tomcritchlow <cite><a href="https://tomcritchlow.com/2019/02/27/i-consultant/">https://tomcritchlow.com/2019/02/27/i-consultant/</a></cite></footer>
+<footer>@sepiabrown <cite><a href="https://sepiabrown.github.io/2019/02/27/i-consultant/">https://sepiabrown.github.io/2019/02/27/i-consultant/</a></cite></footer>
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 

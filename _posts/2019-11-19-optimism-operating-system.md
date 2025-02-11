@@ -3,10 +3,10 @@ layout: tsi-chapter
 title: Optimism as an Operating System
 subtitle: Yes! And... part 2
 tags: strategy
-og: https://tomcritchlow.com/images/yes-and-og-2.png
+og: https://sepiabrown.github.io/images/yes-and-og-2.png
 ---
 
-*This is part 2 in a 5-part series called Yes! And… - exploring the relationship between the theatre of work, the consultant as improv actor and the generative positivity of Yes! And… [Catch up on chapter 1 here](https://tomcritchlow.com/2019/11/18/yes-and/).*
+*This is part 2 in a 5-part series called Yes! And… - exploring the relationship between the theatre of work, the consultant as improv actor and the generative positivity of Yes! And… [Catch up on chapter 1 here](https://sepiabrown.github.io/2019/11/18/yes-and/).*
 
 The consultant thrives on problems. Things to be “fixed”, “solved” and “improved”. As a result it can be natural to take pleasure in identifying problems. That smell of a fresh client - waiting to be carved up by sharp 2x2s. A client with problems is a *good client* for a consultant.
 
@@ -149,6 +149,6 @@ So next time you’re starting a client project think about how to default to op
 
 In this chapter we’ve focused a lot still on the “performance” of the work - on the language, people interactions and emotions of getting work done. Is that all there is? How can we use this default positivity to open clients up to more creative generative strategy?
 
-That’s the next chapter - [Blocking & Unblocking Clients](https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/)
+That’s the next chapter - [Blocking & Unblocking Clients](https://sepiabrown.github.io/2019/12/06/blocking-unblocking-clients/)
 
 

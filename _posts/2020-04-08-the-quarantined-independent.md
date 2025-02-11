@@ -5,7 +5,7 @@ subtitle: A new blogchain on surviving a global pandemic as an indie
 blogchain: the-quarantined-independent
 ---
 
-For the past few years I've been writing a book, serializing the posts on my blog: [The Strategic Independent](https://tomcritchlow.com/strategy/).
+For the past few years I've been writing a book, serializing the posts on my blog: [The Strategic Independent](https://sepiabrown.github.io/strategy/).
 
 I've always thought of this book as trying to be a "201" level reference - useful for those who already figured out the basics.
 
@@ -19,7 +19,7 @@ These topics feel out of touch with reality, while the underlying goal is the sa
 
 ## New Blogchain: The Quarantined Independent
 
-The series home will be here: [The Quarantined Independent](https://tomcritchlow.com/blogchains/the-quarantined-independent/). Posts will drop out serially on my blog (and there's always the [rss feed](https://tomcritchlow.com/feed.xml)).
+The series home will be here: [The Quarantined Independent](https://sepiabrown.github.io/blogchains/the-quarantined-independent/). Posts will drop out serially on my blog (and there's always the [rss feed](https://sepiabrown.github.io/feed.xml)).
 
 My plan is to think through what indies can do to find & keep work, stay alive in the crisis and generally.
 
@@ -64,7 +64,7 @@ Every independent I know generates leads through their writing.
 Some reading:
 
 - [Strategic Digital Gardening](https://willakoerner.com/project/digital-gardening)
-- [Strange Attraction](https://tomcritchlow.com/2019/03/12/strange-attraction/)
+- [Strange Attraction](https://sepiabrown.github.io/2019/03/12/strange-attraction/)
 
 And, crucially - don't forget to keep it weird. This age is the [great weirding](https://www.ribbonfarm.com/series/weirding-diary/) and the world that comes next isn't going to want your LinkedIn "10 ways I...." bro-post. Let a little [blogpunk](https://tomcritchlow.com/2019/05/17/blogpunk/) creep in.
 
@@ -110,7 +110,7 @@ Side projects might be regenerative for your emotional reserves right now[^sidep
 
 If you can cobble together the reserves spend 2020 working on a project that will generate revenue in 2021. Here's what that might look like for me:
 
-<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/tomcritchlow/status/1225841636657201152'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+<blockquote class='twitter-tweet' data-conversation='none'><a href='https://twitter.com/sepiabrown/status/1225841636657201152'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 
 Creating a course with full syllabus, videos, materials ready to launch and accept signups next year would be a great investment in future you..
 

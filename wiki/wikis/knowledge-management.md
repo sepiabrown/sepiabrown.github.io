@@ -18,8 +18,8 @@
 
 source: [How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
 
-- [Of Gardens & Wikis](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
-- [Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
+- [Of Gardens & Wikis](https://sepiabrown.github.io/2018/10/10/of-gardens-and-wikis/)
+- [Building a digital garden](https://sepiabrown.github.io/2019/02/17/building-digital-garden/)
 
 [Analogy as the core of cognition](http://worrydream.com/refs/Hofstadter%20-%20Analogy%20as%20the%20Core%20of%20Cognition.pdf)
 

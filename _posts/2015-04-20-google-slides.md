@@ -106,7 +106,7 @@ Well — in response to all of those, maybe some day I’ll spring for a $9.99 /
 month subscription for Photoshop that I don’t know how to use but for my limited
 design skills and rapid iteration projects it works just fine.
 
-Comments? Either tweet at me ([@tomcritchlow](http://twitter.com/tomcritchlow))
+Comments? Either tweet at me ([@sepiabrown](http://twitter.com/sepiabrown))
 or email me: tjcritchlow@gmail.com
 
 *****

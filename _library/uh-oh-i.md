@@ -2,7 +2,7 @@
 title: "uh-oh-i"
 date_saved: 2021-12-02
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2021/12/02/uh-oh-i.html"
+link: "http://sepiabrown.micro.blog/2021/12/02/uh-oh-i.html"
 ---
 Uh oh. I see troubles like this in my future.... Is there really no POD service that actually works well?
 

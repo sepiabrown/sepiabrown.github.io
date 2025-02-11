@@ -16,7 +16,7 @@ It's getting some fresh traction - like:
 
 <https://www.mentalnodes.com/>
 
-<https://tomcritchlow.com/2020/04/20/tiddlyblink-glitch/>
+<https://sepiabrown.github.io/2020/04/20/tiddlyblink-glitch/>
 
 And finally a TiddlyTheme that doesn't suck!!
 

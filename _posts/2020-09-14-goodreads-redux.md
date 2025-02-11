@@ -4,7 +4,7 @@ subtitle: Rough notes as followup to Library.json
 layout: blog
 ---
 
-A few months ago I wrote up an outline of a spec for a decentralized GoodReads: [Library JSON - A Proposal for a Decentralized Goodreads](https://tomcritchlow.com/2020/04/15/library-json/). It had a bunch of interesting replies and comments and I've yet to get around to writing a followup.
+A few months ago I wrote up an outline of a spec for a decentralized GoodReads: [Library JSON - A Proposal for a Decentralized Goodreads](https://sepiabrown.github.io/2020/04/15/library-json/). It had a bunch of interesting replies and comments and I've yet to get around to writing a followup.
 
 This post is not that followup.
 

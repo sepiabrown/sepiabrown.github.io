@@ -37,9 +37,9 @@ For your first 6 months focus on paying the bills rather than worrying about the
 
 Don't be afraid to meander through conversations with leads - I've often had wide ranging conversations before deciding on a specific project to work on with a client.
 
-That said, once you have some clarity clear positioning is effective - even if it's in your own head. Try outlining the kind of companies you're best able to help and the best kind of work you want to do. (See my [latest positioning in this post](http://tomcritchlow.com/2016/10/24/2-years/))
+That said, once you have some clarity clear positioning is effective - even if it's in your own head. Try outlining the kind of companies you're best able to help and the best kind of work you want to do. (See my [latest positioning in this post](http://sepiabrown.github.io/2016/10/24/2-years/))
 
-Start a company and a brand. Or don't. Up to you - I know folks doing it both ways. [I decided not to](http://tomcritchlow.com/2016/08/01/brand/), but the decision is personal. 
+Start a company and a brand. Or don't. Up to you - I know folks doing it both ways. [I decided not to](http://sepiabrown.github.io/2016/08/01/brand/), but the decision is personal. 
 
 ## Pricing
 

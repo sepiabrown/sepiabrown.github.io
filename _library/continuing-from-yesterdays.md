@@ -2,7 +2,7 @@
 title: "continuing-from-yesterdays"
 date_saved: 2022-03-17
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/03/17/continuing-from-yesterdays.html"
+link: "http://sepiabrown.micro.blog/2022/03/17/continuing-from-yesterdays.html"
 ---
 Continuing from yesterday's post on interesting conferences, this looks interesting:
 

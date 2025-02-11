@@ -2,7 +2,7 @@
 title: "a-framework-for"
 date_saved: 2022-01-31
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/01/31/a-framework-for.html"
+link: "http://sepiabrown.micro.blog/2022/01/31/a-framework-for.html"
 ---
 A framework for writing online. This is a nice short video from David Perell
 

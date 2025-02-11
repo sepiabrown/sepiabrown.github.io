@@ -10,9 +10,9 @@ This is a blog post about butts.
 
 There's something interesting here - Nate's managed to create this lovely compression.
 
-I've been thinking a lot about *designing learning experiences* recently. In my last post [notes on teaching & chairs](https://tomcritchlow.com/2022/04/06/teaching/) I wrote:
+I've been thinking a lot about *designing learning experiences* recently. In my last post [notes on teaching & chairs](https://sepiabrown.github.io/2022/04/06/teaching/) I wrote:
 
-<blockquote class="quoteback" darkmode="" data-title="Notes%20on%20teaching%20%26%20chairs" data-author="@tomcritchlow" cite="https://tomcritchlow.com/2022/04/06/teaching/">
+<blockquote class="quoteback" darkmode="" data-title="Notes%20on%20teaching%20%26%20chairs" data-author="@sepiabrown" cite="https://sepiabrown.github.io/2022/04/06/teaching/">
 <p>I’m still learning how to teach (ha!). But I’ve found that when constructing a syllabus or a lesson there’s a kind of framework I follow. Maybe this is old news for teachers. It goes something like this:</p>
 <ol>
 <li>First figure out what the goal is for your students. Ideally you try and write this as a statement: <em>after completing this course they will be able to…</em></li>
@@ -27,7 +27,7 @@ I've been thinking a lot about *designing learning experiences* recently. In my 
 <li>Find some stories that deepen the emotional connection to the subject. Why is this stuff important? Why do you care? What are real examples from the world that show this learning in action?</li>
 <li>Shift the teaching from telling to showing - find ways for students to come to their own insights. The highest artform of this is to never once tell the student what you want them to know, but to allow them to arrive there themselves.</li>
 <li>Once you’ve done all of these things, finally, you need to make it entertaining. You need to make the teaching experience capture their attention for extended periods of time.</li></ol>
-<footer>@tomcritchlow<cite> <a href="https://tomcritchlow.com/2022/04/06/teaching/">https://tomcritchlow.com/2022/04/06/teaching/</a></cite></footer>
+<footer>@sepiabrown<cite> <a href="https://sepiabrown.github.io/2022/04/06/teaching/">https://sepiabrown.github.io/2022/04/06/teaching/</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 Designing Bezier Butts is firmly level 8 kind of stuff. Beyond thinking about *what* you want to teach, and simply *telling people what you know*, Nate's thinking about designing a learning experience that is relatable (everyone has a butt!) and engaging (who doesn't want to have fun drawing bezier butts!)

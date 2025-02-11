@@ -18,7 +18,7 @@ There's blood in the feed and the algorithms can smell it.
 
 I took screenshots of all the ones I rememberd to.
 
-<p><iframe class="ampframe" src="https://tomcritchlow.com/stories/blood-in-the-feed/" width="343px" height="572px"></iframe></p>
+<p><iframe class="ampframe" src="https://sepiabrown.github.io/stories/blood-in-the-feed/" width="343px" height="572px"></iframe></p>
 
 <style>
 .ampframe{

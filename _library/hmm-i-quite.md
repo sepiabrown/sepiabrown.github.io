@@ -2,7 +2,7 @@
 title: "hmm-i-quite"
 date_saved: 2022-02-17
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/02/17/hmm-i-quite.html"
+link: "http://sepiabrown.micro.blog/2022/02/17/hmm-i-quite.html"
 ---
 Hmm. I quite like this working in seasons idea. As I shift more towards an independent model where I'm able to dictate my schedule a bit more (vs clients dictating it)....
 

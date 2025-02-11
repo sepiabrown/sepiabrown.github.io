@@ -29,13 +29,13 @@ Ok, so why blogchains? For me personally it's about three core ideas:
 
 2) Infinite, open-ended world building. I just finished reading an [Emissaries Guide to Worlding](https://serpentine-galleries.myshopify.com/products/coming-soon-ian-cheng-emissaries-guide-to-worlding) and I'm inspired to think about world building, infinite game exploration and more as a practice.
 
-3) Blogpunk. I wrote about [blogpunk recently](https://tomcritchlow.com/2019/05/17/blogpunk/) but I'm keen on the idea of making blogging feel weird and something unto itself. Maybe blogchains are a way to do that?
+3) Blogpunk. I wrote about [blogpunk recently](https://sepiabrown.github.io/2019/05/17/blogpunk/) but I'm keen on the idea of making blogging feel weird and something unto itself. Maybe blogchains are a way to do that?
 
 ## Blogchains So Far
 
-So this post is the first in my "New adventures in blogging" blogchain as I chronicle and document and explore blogging as a form. Follow along here: [new blogging](https://tomcritchlow.com/blogchains/new-blogging/).
+So this post is the first in my "New adventures in blogging" blogchain as I chronicle and document and explore blogging as a form. Follow along here: [new blogging](https://sepiabrown.github.io/blogchains/new-blogging/).
 
-I've also gone back and strung my wiki/digital garden posts into a [Digital Gardens blogchain](https://tomcritchlow.com/blogchains/digital-gardens/). Think of it as the yin to the yang of blogging.
+I've also gone back and strung my wiki/digital garden posts into a [Digital Gardens blogchain](https://sepiabrown.github.io/blogchains/digital-gardens/). Think of it as the yin to the yang of blogging.
 
 (Retrospective blogchains are cheating but cheating is the name of the game for infinite games so here we are)
 

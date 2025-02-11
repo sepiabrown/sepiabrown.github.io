@@ -2,7 +2,7 @@
 title: "doing-the-work"
 date_saved: 2022-03-01
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/03/01/doing-the-work.html"
+link: "http://sepiabrown.micro.blog/2022/03/01/doing-the-work.html"
 ---
 Doing the work by actually reading the source material. Very generalizable!
 

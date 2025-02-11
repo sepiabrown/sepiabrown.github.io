@@ -2,7 +2,7 @@
 title: "good-reminder-and"
 date_saved: 2022-05-24
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/05/24/good-reminder-and.html"
+link: "http://sepiabrown.micro.blog/2022/05/24/good-reminder-and.html"
 ---
 Good reminder and guiding principle if you're writing a business book. What people want isn't the same as what they enjoy:
 

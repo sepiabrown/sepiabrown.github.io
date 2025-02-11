@@ -2,7 +2,7 @@
 title: "specific-curiosity-as"
 date_saved: 2022-02-18
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/02/18/specific-curiosity-as.html"
+link: "http://sepiabrown.micro.blog/2022/02/18/specific-curiosity-as.html"
 ---
 "Specific curiosity as a driver of creativity"
 
@@ -15,7 +15,7 @@ link: "http://tomcritchlow.micro.blog/2022/02/18/specific-curiosity-as.html"
 
 Some interesting insights from this:
 
-1. Maintaining an active list of "open questions" might make you more creative. Is there a way to reframe your general interests into a list of questions? I did something a bit like that with my [areas of inquiry](https://tomcritchlow.com/2022/01/06/jan-22-map-inquiry/) post recently
+1. Maintaining an active list of "open questions" might make you more creative. Is there a way to reframe your general interests into a list of questions? I did something a bit like that with my [areas of inquiry](https://sepiabrown.github.io/2022/01/06/jan-22-map-inquiry/) post recently
 2. Doing things leads to questions leads to creativity leads to doing things.... There's a nice virtuous cycle here where finding specific problems - i.e. specific questions leads you into a positive cycle of curiousity and creativity...
 
 Update: I wonder if there's value in a little tool/prompt/exercise that encourages people to convert their general, abstract interest into a set of active questions. I have a hunch that if you can push people into a question mindset they can be more focused, more creative, less distracted and more likely to spend time on their interests....

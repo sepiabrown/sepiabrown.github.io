@@ -139,7 +139,7 @@ So, with that frame in mind the outcome for this kind of "total business review"
 
 **1) New dashboards embed new ways of seeing the world.** A dashboard[^dashboard] is essentially an embedded mental model for how the business works - and if you can help the client create a new dashboard you can help them see the world in new ways. This is often a precursor to doing new things and doing things in new ways - because they suddenly have a measurement framework for it. You manage what you measure after all.
 
-[^dashboard]: See [my post here on executive dashboards](https://tomcritchlow.com/2022/05/06/executive-dashboards/) and why I find them so interesting.
+[^dashboard]: See [my post here on executive dashboards](https://sepiabrown.github.io/2022/05/06/executive-dashboards/) and why I find them so interesting.
 
 **2) Sequencing is about what NOT to do, and what we need to learn.** Roadmaps imbue a false sense of confidence in the future but the reality is that if we want to do new things, or do things in new ways we need to DO things so that we can learn. Learning how they work, learning whether we're able to pull them off, learning how resources intensive they are. So a sequencing is a middle ground between abstract strategy and detailed roadmap.
 

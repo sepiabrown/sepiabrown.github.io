@@ -2,7 +2,7 @@
 title: "why-do-learning"
 date_saved: 2022-04-26
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/04/26/why-do-learning.html"
+link: "http://sepiabrown.micro.blog/2022/04/26/why-do-learning.html"
 ---
 Why do learning and play seem locked in opposition sometimes? When it's through play that we do our best learning...
 

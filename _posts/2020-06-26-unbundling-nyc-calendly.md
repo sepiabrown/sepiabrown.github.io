@@ -70,7 +70,7 @@ Casual coffees are encounters with low marginal cost around existing activity
 
 In post-covid times what is the alternative? I've certainly increased the number of "casual zooms". Can they replace casual coffees? Perhaps - especially if you use a tool like Calendly. I've found that using calendly I've managed to recreate this "low marginal cost" feeling and de-risked and de-formalized the meeting so that it's much easier to schedule and set up a casual chat.
 
-So let's try an experiment. Here's [a link to my calendly](https://calendly.com/tomcritchlow/tom-chat). Feel free to grab some time. I'm most interested in:
+So let's try an experiment. Here's [a link to my calendly](https://calendly.com/sepiabrown/tom-chat). Feel free to grab some time. I'm most interested in:
 
 - Executive sparring and finding sparring clients
 - The state of media, content companies and networked writing

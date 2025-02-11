@@ -2,10 +2,10 @@
 title: A Lil' Website Refresh
 subtitle: New design, new pages and more
 layout: blog
-og: https://tomcritchlow.com/images/new-website-og.png
+og: https://sepiabrown.github.io/images/new-website-og.png
 ---
 
-Welcome to tomcritchlow.com version.... 19? 25? Honestly there have been so many iterations over the years who even knows. The point is there's a new coat of paint.
+Welcome to sepiabrown.github.io version.... 19? 25? Honestly there have been so many iterations over the years who even knows. The point is there's a new coat of paint.
 
 ![](/images/2024-03-20-09-49-17.png)
 
@@ -15,7 +15,7 @@ A few things that are new:
 * White background for most of the site
 * A new [advisor](/advisor) page
 * New [topics](/topics) pages
-* Bringing back the [blog map](https://tomcritchlow.com/map/)
+* Bringing back the [blog map](https://sepiabrown.github.io/map/)
 * A mini timeline on my [about](/about/) page
 * The [newsletter](/newsletter) is now embedded (via buttondown)
 
@@ -31,7 +31,7 @@ Here's something fun I'm tinkering with. Heavily inspired by [Emmanual Quartey](
 
 ![](/images/2024-03-20-09-58-17.png)
 
-These topic pages (example: [sustainable independent consulting](https://tomcritchlow.com/topics/indie-consulting/)) house collections of writing as well as my are.na research boards. Hopefully as evolving, deepening spaces for long term lines of inquiry.
+These topic pages (example: [sustainable independent consulting](https://sepiabrown.github.io/topics/indie-consulting/)) house collections of writing as well as my are.na research boards. Hopefully as evolving, deepening spaces for long term lines of inquiry.
 
 ## Take Your Website Seriously
 
@@ -41,7 +41,7 @@ Why care so much about a stupid personal website? Well, aside from the fact that
 
 As you get older it's harder and harder to meet new people, expand your circles and show up in new spaces. But my website is a little antidote. Just last week I had 6 coffee meetings and zooms with people I'd never met before. What a time to be alive!
 
-As I've said before, [the unit of blogging is the conversation](https://tomcritchlow.com/2023/02/10/riffs/).
+As I've said before, [the unit of blogging is the conversation](https://sepiabrown.github.io/2023/02/10/riffs/).
 
 In NYC? Let's get coffee.
 

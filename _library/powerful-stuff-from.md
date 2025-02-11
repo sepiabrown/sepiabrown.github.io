@@ -2,7 +2,7 @@
 title: "powerful-stuff-from"
 date_saved: 2022-04-05
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/04/05/powerful-stuff-from.html"
+link: "http://sepiabrown.micro.blog/2022/04/05/powerful-stuff-from.html"
 ---
 Powerful stuff from Johanna Lewengard:
 

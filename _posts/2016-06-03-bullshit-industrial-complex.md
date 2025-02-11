@@ -24,7 +24,7 @@ Sean didn't touch on how to avoid the Complex. I'm not going to tell you how to 
 
 - **Publish, but keep it weird**. For example, I love writing blog posts but I try hard to avoid anything that could be classed as "thought leadership" - for example [Poetry & Markdown for What?](http://tomcritchlow.com/2015/05/11/poetry-js/) about formatting markdown files for poetry, or [A Meander into Architecture](http://tomcritchlow.com/2015/08/24/architecture/) about seeing architecture for the very first time.
 - **Post thinking, not answers**. For example, a popular post I wrote a few months back [Decentralized Brands & The Future of Content Marketing](http://tomcritchlow.com/2015/04/15/decentralized-brands/), despite the name is really just me thinking out loud. I wrote in the piece "This is not a fully fleshed out thesis yet but rather some jumping off points." and as my thinking evolved I included links to other writing I found interesting.
-- **Be humble**. I wrote a post about how a side project I'd coded up never really worked properly and the lovely random exchange that happened as a result in [Random acts of algorithms](http://tomcritchlow.com/2014/12/03/random-acts-of-algorithms/).
+- **Be humble**. I wrote a post about how a side project I'd coded up never really worked properly and the lovely random exchange that happened as a result in [Random acts of algorithms](http://sepiabrown.github.io/2014/12/03/random-acts-of-algorithms/).
 
 In summary - I believe you should be publishing *something* to the web, maybe an esoteric spreadsheet, perhaps an open source javascript library, a deep dive into semantic analysis of your favorite author? Who knows? Publish, but keep it weird and humble.
  

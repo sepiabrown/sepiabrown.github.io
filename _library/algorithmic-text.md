@@ -6,7 +6,7 @@ date_saved: 2025-01-07
 
 https://blog.openai.com/better-language-models/
 
-https://tomcritchlow.com/2017/10/20/rnn/
+https://sepiabrown.github.io/2017/10/20/rnn/
 
 We're going to need a name for AI-written text:
 

@@ -2,7 +2,7 @@
 title: "some-nice-reflections"
 date_saved: 2022-05-06
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/05/06/some-nice-reflections.html"
+link: "http://sepiabrown.micro.blog/2022/05/06/some-nice-reflections.html"
 ---
 Some nice reflections on working at Github - I especially love this meditation on working on a big project that got cancelled:
 

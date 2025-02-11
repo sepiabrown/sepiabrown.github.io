@@ -2,7 +2,7 @@
 title: "parking-this-thread"
 date_saved: 2021-11-21
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2021/11/21/parking-this-thread.html"
+link: "http://sepiabrown.micro.blog/2021/11/21/parking-this-thread.html"
 ---
 Parking this thread and article here to read later
 

@@ -51,5 +51,5 @@ What else is important for these pages? Things the jury is still out on:
 
 What else is important?
 
-And, of course if you're looking to work with me take a peek at my ["hire me" page](https://tomcritchlow.com/consulting/).
+And, of course if you're looking to work with me take a peek at my ["hire me" page](https://sepiabrown.github.io/consulting/).
 

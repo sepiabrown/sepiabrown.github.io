@@ -41,7 +41,7 @@ Some foundational ideas:
 
 
 
-If you like this idea, read the deep dive: [The Consultant Out of Time: Chronos & Kairos - a framework for just-in-time consulting](https://tomcritchlow.com/2021/01/26/kairos/)
+If you like this idea, read the deep dive: [The Consultant Out of Time: Chronos & Kairos - a framework for just-in-time consulting](https://sepiabrown.github.io/2021/01/26/kairos/)
 
 https://hbr.org/2023/01/how-frank-gehry-delivers-on-time-and-on-budget
 

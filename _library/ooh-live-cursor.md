@@ -2,7 +2,7 @@
 title: "ooh-live-cursor"
 date_saved: 2022-03-25
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/03/25/ooh-live-cursor.html"
+link: "http://sepiabrown.micro.blog/2022/03/25/ooh-live-cursor.html"
 ---
 Ooh - live cursor comments?! Might have to install this on my blog......
 

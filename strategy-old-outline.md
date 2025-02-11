@@ -13,7 +13,7 @@ The Strategic Independent will eventually become a book{% include tufte-sn.html 
 {% endif %}
 {% endfor %}
 
-There's also an [annotated version of this outline with 70+ comments and notes here](https://tomcritchlow.com/2019/07/12/annotate-the-outline/).
+There's also an [annotated version of this outline with 70+ comments and notes here](https://sepiabrown.github.io/2019/07/12/annotate-the-outline/).
 
 Right now - the book will cover the following broad topics:
 
@@ -27,9 +27,9 @@ Importantly - this will not be a "get rich quick" book. There's nothing in this 
 
 This chapter will cover building your own network and generating leads.
 
-Based off my theory of [small b blogging](https://tomcritchlow.com/2018/02/23/small-b-blogging/) I'll explore some of the same themes - that you don't need to be famous to generate leads. A small network that you consistently communicate with and educate on the work you do is all you need.
+Based off my theory of [small b blogging](https://sepiabrown.github.io/2018/02/23/small-b-blogging/) I'll explore some of the same themes - that you don't need to be famous to generate leads. A small network that you consistently communicate with and educate on the work you do is all you need.
 
-[Strange Attraction](https://tomcritchlow.com/2019/03/12/strange-attraction/) - landing referrals from your network can feel random, and while it's unpredictable you can still play system-level games to help generate the right kinds of work.
+[Strange Attraction](https://sepiabrown.github.io/2019/03/12/strange-attraction/) - landing referrals from your network can feel random, and while it's unpredictable you can still play system-level games to help generate the right kinds of work.
 
 ## 2. Designing Client Engagements
 
@@ -39,7 +39,7 @@ This chapter will cover designing client engagement that set you up for success 
 
 **Designing pricing and proposals**. Lots of things to be written here. For now - a great resource is the [sample proposals](https://www.alanweiss.com/styles/pdf/Sample%20Proposals.pdf) [pdf] from Alan Weiss.
 
-I'll draw on the concept of [strategy & stewardship](https://tomcritchlow.com/2018/06/28/strategy-stewardship/) to think about retainers and long-term work embedded with your clients and how to transition between them.
+I'll draw on the concept of [strategy & stewardship](https://sepiabrown.github.io/2018/06/28/strategy-stewardship/) to think about retainers and long-term work embedded with your clients and how to transition between them.
 
 ## 3. Effective Strategy Work
 
@@ -51,7 +51,7 @@ I'm obsessed with doing *effective* strategy work. Work beyond powerpoints and d
 
 [How to get things done](https://tomcritchlow.com/2018/06/01/how-to-get-things-done/) - there's a few provocative ideas in this post that need exploring and expanding. Most notably the deck linked here that really gets into the heart of the idea that "Amateurs talk about strategy. Professionals talk about logistics".
 
-[Yes! and...](https://tomcritchlow.com/2019/11/18/yes-and/) - this is a series in progress all inspired by Impro by Keith Johnstone and the foundational idea that consultants need to think on their feet like improv actors.
+[Yes! and...](https://sepiabrown.github.io/2019/11/18/yes-and/) - this is a series in progress all inspired by Impro by Keith Johnstone and the foundational idea that consultants need to think on their feet like improv actors.
 
 [Strategy is the organic flow of ideas and people](https://tomcritchlow.com/2018/03/08/consulting-links/) - here we start to expand our idea of what kind of work we're hired for in the first place and recognize that it's all about people. The title of this post is taken from an excellent paper by Stripe Partners and there's tons to explore here.
 

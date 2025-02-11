@@ -12,8 +12,8 @@ In an age where comments have moved to social media, it's hard to see which post
 
 Take some of my latest posts for example:
 
-* [Reflecting on things I failed to get done at Google](https://tomcritchlow.com/2022/05/12/google-ideas/) has one comment on Commento and one annotation on Hypothesis. Not much to grapple with.
-* [Some Notes on Executive Dashboards](https://tomcritchlow.com/2022/05/06/executive-dashboards/) has a single comment on Commento.
+* [Reflecting on things I failed to get done at Google](https://sepiabrown.github.io/2022/05/12/google-ideas/) has one comment on Commento and one annotation on Hypothesis. Not much to grapple with.
+* [Some Notes on Executive Dashboards](https://sepiabrown.github.io/2022/05/06/executive-dashboards/) has a single comment on Commento.
 
 Both posts were big outliers though - one was on the homepage of Hacker News and one was re-shared in lots of design email lists. More than that - they both generated lots of fascinating discussions and connections. But it's all sub-surface.
 
@@ -27,7 +27,7 @@ But none of these will let you see the conversations that happen in my Twitter D
 
 We think of blogging as being performative but the value is subterranean. You can watch someone blogging and think that all they're doing is throwing words into the feed, when in reality they're sparking many interesting conversations and connections below the surface.
 
-[The unit of measurement for blogging is the conversation](https://tomcritchlow.com/2022/05/20/streaks/).
+[The unit of measurement for blogging is the conversation](https://sepiabrown.github.io/2022/05/20/streaks/).
 
 ⛰️🌿⛰️
 

@@ -16,7 +16,7 @@ And then - Anne-Laure started blogging about TiddlyWiki:
 
 That inspired me to explore Glitch as a hosting paltform for Tiddly in my last post: 
 
-[TiddlyBlink on Glitch](https://tomcritchlow.com/2020/04/20/tiddlyblink-glitch/)
+[TiddlyBlink on Glitch](https://sepiabrown.github.io/2020/04/20/tiddlyblink-glitch/)
 
 But the design of TiddlyWiki still bothered me - Anne-Laure figured out a way to make a beautiful looking static-export of her wiki at [mentalnodes.com](https://www.mentalnodes.com/) but I was hungry for a node version[^node] that I could run on Glitch and didn't look terrible.
 

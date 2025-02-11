@@ -4,7 +4,7 @@ subtitle: Auto-generating text snippets using a little javascript and bookmarkle
 layout: blog
 ---
 
-I've been tending to my digital garden / wiki recently. See my other post on [using Screenotate to power my screenshot->wiki workflow](https://tomcritchlow.com/2019/06/19/screenotate-wiki/).
+I've been tending to my digital garden / wiki recently. See my other post on [using Screenotate to power my screenshot->wiki workflow](https://sepiabrown.github.io/2019/06/19/screenotate-wiki/).
 
 But I found that I've been saving too many links to my wiki without any context. I was finding the links while in some other context and wanting a quick way to dump the link into my wiki. The challenge became - how to quickly add context to the link I'm dropping in?
 
@@ -12,7 +12,7 @@ The way I'm solving this is by experimenting with upgrading my workflow by using
 
 So I wrote a little javascript:
 
-<script src="https://gist.github.com/tomcritchlow/92ec5f069b5b9bc35cf1fbd7dcbefd1d.js"></script>
+<script src="https://gist.github.com/sepiabrown/92ec5f069b5b9bc35cf1fbd7dcbefd1d.js"></script>
 
 And turned it into a bookmarklet here (drag this link to your bookmarks bar):]
 
@@ -38,7 +38,7 @@ Yes, for now you need to hit cmd+c to copy the text because I was too lazy to au
 
 What would you like to script for your static site? Let me know and I'll try and help you build a bookmarklet for it!
 
-*By the way - this technique is great for more structured data too. I have a bookmarklet that is powering [this books list](https://tomcritchlow.com/wiki/books/books-read/) too. You run it on an Amazon page and it spits out the necessary Markdown frontmatter to add to my page in a structured way.*
+*By the way - this technique is great for more structured data too. I have a bookmarklet that is powering [this books list](https://sepiabrown.github.io/wiki/books/books-read/) too. You run it on an Amazon page and it spits out the necessary Markdown frontmatter to add to my page in a structured way.*
 
 --
 

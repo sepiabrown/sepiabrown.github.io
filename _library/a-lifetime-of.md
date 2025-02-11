@@ -2,7 +2,7 @@
 title: "a-lifetime-of"
 date_saved: 2022-01-11
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/01/11/a-lifetime-of.html"
+link: "http://sepiabrown.micro.blog/2022/01/11/a-lifetime-of.html"
 ---
 What a stunning, heartfelt and insightful piece from Chia:
 

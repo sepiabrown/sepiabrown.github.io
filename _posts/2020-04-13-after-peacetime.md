@@ -63,7 +63,7 @@ The default mode is **convergent** - new clients are often building off previous
 
 But these are not normal times. There's nothing convergent about it - the world is hard-forking and the various branches of reality are fighting for dominance.
 
-My first instinct was to turtle my way out of it - shore up enough reserves to outlast the crisis. In [my last post](https://tomcritchlow.com/2020/04/08/the-quarantined-independent/) I said this:
+My first instinct was to turtle my way out of it - shore up enough reserves to outlast the crisis. In [my last post](https://sepiabrown.github.io/2020/04/08/the-quarantined-independent/) I said this:
 
 <link rel="stylesheet" href="https://files-anyn4ju8u.now.sh/quote.css" type="text/css">
 <div class="portal-container">
@@ -74,7 +74,7 @@ My first instinct was to turtle my way out of it - shore up enough reserves to o
 <div class="title-wrapper">Tom Critchlow in <span class="portal-text-title">The Quarantined Independent</span></div>
 </div>              
 </div>
-<div class="portal-backlink"><a target="_blank" href="https://tomcritchlow.com/2020/04/08/the-quarantined-independent/" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>
+<div class="portal-backlink"><a target="_blank" href="https://sepiabrown.github.io/2020/04/08/the-quarantined-independent/" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>
 </div>
 <div id="portal-parent-{{include.anchor}}" class="portal-parent">
 <div class="portal-content">Finally - if you have the cash reserves to see you through this (big if…) then you should consider going subterranean and working on projects that won’t see the light of day until next year.
@@ -147,7 +147,7 @@ Look for ways to leverage this through group sensemaking, open discussion and co
 
 It's impossible to have answers to anything in this crisis. Every decision ends in a shruggie.
 
-But consulting was never about "having the answer" anyway, see [capacity building vs problem solving consultants](https://tomcritchlow.com/2019/12/06/blocking-unblocking-clients/#consultant-as-capacity-builder).
+But consulting was never about "having the answer" anyway, see [capacity building vs problem solving consultants](https://sepiabrown.github.io/2019/12/06/blocking-unblocking-clients/#consultant-as-capacity-builder).
 
 The "capacity" that needs to be built for clients right now is *placing bets*.
 

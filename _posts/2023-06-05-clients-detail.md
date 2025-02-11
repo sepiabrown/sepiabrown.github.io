@@ -43,6 +43,6 @@ Remember: clients have a surprising amount of detail.
 
 This is an idea I've written about in a few different ways. Some further reading:
 
-* [The Strategic Independent: how to do better work for more money](https://tomcritchlow.com/2019/04/04/the-strategic-independent/)
-* [Strategy & Stewardship](https://tomcritchlow.com/2018/06/28/strategy-stewardship/)
-* [High Fidelity Consulting](https://tomcritchlow.com/2018/07/10/high-fidelity-consulting/)
+* [The Strategic Independent: how to do better work for more money](https://sepiabrown.github.io/2019/04/04/the-strategic-independent/)
+* [Strategy & Stewardship](https://sepiabrown.github.io/2018/06/28/strategy-stewardship/)
+* [High Fidelity Consulting](https://sepiabrown.github.io/2018/07/10/high-fidelity-consulting/)

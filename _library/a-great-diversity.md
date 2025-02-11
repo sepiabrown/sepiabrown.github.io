@@ -2,7 +2,7 @@
 title: "a-great-diversity"
 date_saved: 2022-01-11
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/01/11/a-great-diversity.html"
+link: "http://sepiabrown.micro.blog/2022/01/11/a-great-diversity.html"
 ---
 A Great Diversity of Relationships
 

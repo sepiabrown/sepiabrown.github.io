@@ -31,7 +31,7 @@ I’ll explain, but first:
 
 It’s worth explaining the kind of work I do, with some important caveats. I do strategic consulting work as an independent. Often I’m embedded within a client’s organization and often for long periods of time[^four] (for example - think two days a week in the office for 18 months working across a variety of projects).
 
-[^four]: For a visual representation of my work see my post [four years on the road](https://tomcritchlow.com/2018/10/24/four-years/) ![](/images/4yearsrevenue.png)
+[^four]: For a visual representation of my work see my post [four years on the road](https://sepiabrown.github.io/2018/10/24/four-years/) ![](/images/4yearsrevenue.png)
 
 This means that - for me - I’m primarily concerned with **warm leads** for long term **strategic work**.
 
@@ -39,7 +39,7 @@ It’s important for **leads to be warm** - because it’s hard to convince some
 
 It’s important for **leads to be primed for long term strategic work** - because you want large enough problems that the senior leadership of the business is talking to you (this helps you get paid well and helps you have a bigger impact) and you want retained work that lasts[^stewardship] (this helps you smooth revenue gaps and gain some predictability).
 
-[^stewardship]: For more on how focus on retained strategy work see my post [strategy and stewardship](https://tomcritchlow.com/2018/06/28/strategy-stewardship/)
+[^stewardship]: For more on how focus on retained strategy work see my post [strategy and stewardship](https://sepiabrown.github.io/2018/06/28/strategy-stewardship/)
 
 This means that for me - I’m definitely optimizing for quality over quantity. 5-10 leads a year can keep me full up. And I think for many independents this will be and should be the case - optimizing for quantity will create a very different environment.
 
@@ -172,7 +172,7 @@ Looking for an example? Check out [Mark Pollard’s](https://docs.google.com/pre
 
 There’s much more to be written about how to put one of these together[^capdeck] but for now I think aim to be concise and precise. Aim for 10 slides. Be specific about what you do.
 
-[^capdeck]: I started collecting examples and advice for making a capabilities deck over on [my wiki page here](https://tomcritchlow.com/wiki/strategy-consulting/capabilities-decks/)
+[^capdeck]: I started collecting examples and advice for making a capabilities deck over on [my wiki page here](https://sepiabrown.github.io/wiki/strategy-consulting/capabilities-decks/)
 
 ## The weird many-colored butterfly
 

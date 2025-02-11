@@ -2,7 +2,7 @@
 title: "ive-been-writing"
 date_saved: 2022-03-17
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/03/17/ive-been-writing.html"
+link: "http://sepiabrown.micro.blog/2022/03/17/ive-been-writing.html"
 ---
 I've been writing about BusinessMagik for a while and I love the articulation that Venkatesh gives to Lorecraft here:
 

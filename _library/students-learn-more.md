@@ -2,7 +2,7 @@
 title: "students-learn-more"
 date_saved: 2022-01-28
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/01/28/students-learn-more.html"
+link: "http://sepiabrown.micro.blog/2022/01/28/students-learn-more.html"
 ---
 "Students learn more when their teacher has learned how to gesture effectively"
 

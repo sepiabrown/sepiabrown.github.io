@@ -10,7 +10,7 @@ So I've been on and off experimenting with using annotations on this site for th
 
 Based on some comments and insights from that post I came up with this custom code that now runs on all of my blog posts:
 
-<script src="https://gist.github.com/tomcritchlow/94d11ecdf9832bb4f8b9697d5ecb8d64.js"></script>
+<script src="https://gist.github.com/sepiabrown/94d11ecdf9832bb4f8b9697d5ecb8d64.js"></script>
 
 The key changes are:
 
@@ -22,11 +22,11 @@ But - we're still a ways from relying on annotations for a full commenting syste
 
 Fortunately Hypothesis has a very easy to use API and I whipped up a quick annotations alerter - based on the following single API call:
 
-<https://api.hypothes.is/api/search?wildcard_uri=https%3A%2F%2Ftomcritchlow.com%2F%2A&limit=50>
+<https://api.hypothes.is/api/search?wildcard_uri=https%3A%2F%2Fsepiabrown.github.io%2F%2A&limit=50>
 
 This is wrapped up in a Google Apps Script function here that fetches new annotations and emails me for new ones:
 
-<script src="https://gist.github.com/tomcritchlow/50fba1a5af3f1c8e6dfab0a5e2e31294.js"></script>
+<script src="https://gist.github.com/sepiabrown/50fba1a5af3f1c8e6dfab0a5e2e31294.js"></script>
 
 And you can see the output spreadsheet here:
 

@@ -2,7 +2,7 @@
 title: "twitter-is-non"
 date_saved: 2022-01-08
 tags: ["microblog"]
-link: "http://tomcritchlow.micro.blog/2022/01/08/twitter-is-non.html"
+link: "http://sepiabrown.micro.blog/2022/01/08/twitter-is-non.html"
 ---
 This is a lovely meditation on balanced social media use - while also accepting that social media (Twitter) is deeply enjoyable and valuable...
 

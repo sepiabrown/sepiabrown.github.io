@@ -14,7 +14,7 @@ That's great but requires a little more technical setup than I can muster. And i
 
 So I decided to make my own version - hosted on Google Docs for ultimate ease-of-cms. If you're interested you can follow along here:
 
-[http://tomcritchlow.com/feeds/](http://tomcritchlow.com/feeds/)
+[http://sepiabrown.github.io/feeds/](http://sepiabrown.github.io/feeds/)
 
 I'm not quite ready to release the code yet but I'd like to. Specifically I'd love to get this to a point where all you need to do is copy the Google Doc and you're ready to go with building your own self-hosted feed (or feeds!).
 

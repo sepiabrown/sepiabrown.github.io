@@ -3,7 +3,7 @@ layout: blog-sidebar-nav
 title: Notes
 ---
 
-*My notes are hosted on Microblog. I'm [@tomcritchlow](https://micro.blog/tomcritchlow). See the [archive here](https://notes.tomcritchlow.com/archive/). Quotes are styled using [Quotebacks](https://quotebacks.net/).*
+*My notes are hosted on Microblog. I'm [@sepiabrown](https://micro.blog/sepiabrown). See the [archive here](https://notes.sepiabrown.github.io/archive/). Quotes are styled using [Quotebacks](https://quotebacks.net/).*
 
 <div id="microblog"></div>
 
@@ -11,7 +11,7 @@ title: Notes
 
 <script>
 
-fetch("https://notes.tomcritchlow.com/feed.json")
+fetch("https://notes.sepiabrown.github.io/feed.json")
     .then((response) => {return response.json()})
     .then((data) => {
         for(var i = 0; i <data.items.length; i++){
