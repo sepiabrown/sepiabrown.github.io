@@ -55,9 +55,9 @@ Vogel <a href="https://www.adweek.com/programmatic/how-dotdash-built-a-profitabl
 
 Working with Neil he was always able to prioritize and talk about the customer experience - to be able to "only build sites we wanted to use" - this sounds obvious or easy but is suspiciously lacking in many businesses. This customer-focus appears quite ingrained across IAC. I wrote about being customer-centric in SEO, quoting Joey Levin:
 
-<blockquote class="quoteback" darkmode="" data-title="Look%20at%20your%20fish" data-author="Tom Critchlow" cite="https://newsletter.seomba.com/p/look-at-your-fish">
+<blockquote class="quoteback" darkmode="" data-title="Look%20at%20your%20fish" data-author="Su Won Park" cite="https://newsletter.seomba.com/p/look-at-your-fish">
 "We have the most valuable content in the category for any homeowner searching online for help with a home project: service professional directories and ratings, closed-loop user reviews, real cost data, and the ability to get the job done on our site, all wrapped in a unified brand built for the category. We haven’t yet exposed many of those features to a broad audience with a clean and fast user interface, which could help recover lost ground in search." source:  <a href="https://ir.iac.com/static-files/c07e9a3b-9b45-4d98-b893-65b1854f666f">IAC Q3 2022 Shareholder Letter</a>
-<footer>Tom Critchlow <cite><a href="https://newsletter.seomba.com/p/look-at-your-fish">https://newsletter.seomba.com/p/look-at-your-fish</a></cite></footer>
+<footer>Su Won Park <cite><a href="https://newsletter.seomba.com/p/look-at-your-fish">https://newsletter.seomba.com/p/look-at-your-fish</a></cite></footer>
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 

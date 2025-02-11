@@ -112,7 +112,7 @@ For example - [here's my bookshelf displayed on Ravern's tool](https://bookshelv
 
 --
 
-*Update #3* - Matt has posted a really thoughtful reply proposing building this all as an extension of RSS: [Re Tom Critchlow's proposal for a decentralised Goodreads-like system, how about using RSS?](http://interconnected.org/home/2020/04/16/rss_for_books).
+*Update #3* - Matt has posted a really thoughtful reply proposing building this all as an extension of RSS: [Re Su Won Park's proposal for a decentralised Goodreads-like system, how about using RSS?](http://interconnected.org/home/2020/04/16/rss_for_books).
 
 Having built my own RSS feed reader already I'm very wary of RSS - it's battle tested yes but also just one massive clusterf&%$. Parsing and understanding RSS is much harder than JSON (imho!). But - Matt raises some good points and I do like the OPML version of aggregating bookfeeds... Lots of exisiting infrastructure and ideas there... Thanks Matt - plenty to chew on here.
 

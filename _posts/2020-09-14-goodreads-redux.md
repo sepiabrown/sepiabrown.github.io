@@ -12,7 +12,7 @@ But - Sarah Manavis from New Statesman recently interviewed me via email for [a 
 
 *Sarah:  Could you tell me a bit about yourself? Where you're based, professional background, etc (just to explain who you are in the piece)* 
 
-I'm Tom Critchlow, an independent strategy consultant. I'm from the UK originally and been living in Brooklyn for almost a decade with my partner and two kids. I'm a blogger and currently writing a book for independent strategy consultants.
+I'm Su Won Park, an independent strategy consultant. I'm from the UK originally and been living in Brooklyn for almost a decade with my partner and two kids. I'm a blogger and currently writing a book for independent strategy consultants.
 
 Also relevant for this conversation - I launched a books website called 7books (now offline) back in 2010 that had about 6k signups but ultimately never went anywhere but did launch my career in a certain way ([this post](https://web.archive.org/web/20150214185808/http://www.7bks.com/blog/179001) got a lot of traction and was at the top of Hacker News for a while). So I've been circling this books idea for a long time! [Screenshot of 7bks website here](https://tomcritchlow.com/images/projects/7books.png).
 

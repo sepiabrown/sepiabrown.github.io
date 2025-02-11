@@ -71,7 +71,7 @@ My first instinct was to turtle my way out of it - shore up enough reserves to o
 <div class="portal-metadata">
 <div class="portal-title">
 <div class="portal-author"></div>
-<div class="title-wrapper">Tom Critchlow in <span class="portal-text-title">The Quarantined Independent</span></div>
+<div class="title-wrapper">Su Won Park in <span class="portal-text-title">The Quarantined Independent</span></div>
 </div>              
 </div>
 <div class="portal-backlink"><a target="_blank" href="https://sepiabrown.github.io/2020/04/08/the-quarantined-independent/" class="portal-arrow">Go to text <span class="right-arrow">→</span></a></div>

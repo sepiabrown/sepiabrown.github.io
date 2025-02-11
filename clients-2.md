@@ -1,6 +1,6 @@
 ---
 layout: pagewide
-metatitle: Digital Strategy Consulting from Tom Critchlow
+metatitle: Digital Strategy Consulting from Su Won Park
 title: Executive Consulting
 clients:
  - name: Suitcase Clone

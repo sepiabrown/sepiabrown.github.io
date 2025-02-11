@@ -1,6 +1,6 @@
 ---
 layout: page
-metatitle: Digital Strategy Consulting from Tom Critchlow
+metatitle: Digital Strategy Consulting from Su Won Park
 title: How to work together
 ---
 

@@ -10,7 +10,7 @@
     "components": [
       {
         "type": "heading",
-        "text": "More Stories by Tom Critchlow"
+        "text": "More Stories by Su Won Park"
       },
       {% for story in site.stories %}
       {

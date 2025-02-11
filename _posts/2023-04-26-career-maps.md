@@ -54,9 +54,9 @@ If you're on the indie path - you gotta buy these books!
 
 All of these point to a kind of "career possibility space". Who could you become? I wrote a Little Futures essay on the coming age of permissionless identities that touches on careers, identities and more: 
 
-<blockquote class="quoteback" darkmode="" data-title="LF10%20-%20Permissionless%20Identities" data-author="Tom Critchlow" cite="https://littlefutures.substack.com/p/lf10-permissionless-identities">
+<blockquote class="quoteback" darkmode="" data-title="LF10%20-%20Permissionless%20Identities" data-author="Su Won Park" cite="https://littlefutures.substack.com/p/lf10-permissionless-identities">
 <p>For both full timers and independents, career growth in a permissionless world is increasingly going to be a modular and iterative process vs the step-change enabled by the old world of gatekeepers.</p><p>So don’t wait for permission. If you’re unsure about the future of your career - don’t look for answers, don’t look for validation or labels - look for experiments, new networks and narrative air-cover. And remember that this networked permissionless world has enabled the opportunity to simply write your way into a new way of thinking and being</p><p>Big futures are permissioned. Little futures are permissionless.</p>
-<footer>Tom Critchlow <cite><a href="https://littlefutures.substack.com/p/lf10-permissionless-identities">https://littlefutures.substack.com/p/lf10-permissionless-identities</a></cite></footer>
+<footer>Su Won Park <cite><a href="https://littlefutures.substack.com/p/lf10-permissionless-identities">https://littlefutures.substack.com/p/lf10-permissionless-identities</a></cite></footer>
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 

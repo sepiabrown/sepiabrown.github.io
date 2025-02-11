@@ -5,7 +5,7 @@ subtitle: The struggle to define who you are as an independent and the promise o
 tags: strategy
 ---
 
-*Co-authored by Tom Critchlow & [Toby Shorin](https://subpixel.space/). Toby's edits are <span class='contributor'>marked in purple</span>.*
+*Co-authored by Su Won Park & [Toby Shorin](https://subpixel.space/). Toby's edits are <span class='contributor'>marked in purple</span>.*
 
 The thing no one tells you when you set out on your own is that you take on the task of managing your own labels. Inventing terms to describe who you are and what you do. 
 
@@ -106,7 +106,7 @@ This is from the excellent piece [On what it takes to sustain a creative life fi
 
 This quote resonates with me because I went through the exact same journey - struggling to charge well for my time when I viewed myself as a freelancer or self-employed. Once I started using the word consultant (and started to actually believe it!) I felt more comfortable charging more for my work.
 
-For me personally I think not in terms of Tom Critchlow sending you this invoice, but in terms of *my consulting business* sending you this invoice[^yesand].
+For me personally I think not in terms of Su Won Park sending you this invoice, but in terms of *my consulting business* sending you this invoice[^yesand].
 
 [^yesand]: I wrestled with a professional identity a while back in this post [Why I've decided not to launch a brand for my consulting work](https://tomcritchlow.com/2016/08/01/brand/). While I decided not to create a website and ‘branding’ for this agency called Yes, and… I did end up forming an LLC and use that construct on all my invoices.
 
